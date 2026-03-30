@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>🎮 GameNav - 游戏平台导航</title>
+<script src="https://cdn.tailwindcss.com"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<style>
+body{background:linear-gradient(135deg,#0f0f23 0%,#1a1a3e 50%,#16213e 100%);min-height:100vh}.glass{background:rgba(255,255,255,.03);backdrop-filter:blur(20px);border:1px solid rgba(255,255,255,.08)}.glass-hover:hover{background:rgba(255,255,255,.06);border-color:rgba(255,255,255,.15)}.card-hover{transition:all .4s cubic-bezier(.175,.885,.32,1.275)}.card-hover:hover{transform:translateY(-8px) scale(1.02);box-shadow:0 25px 50px -12px rgba(0,200,255,.15)}.gradient-text{background:linear-gradient(135deg,#00d9ff,#00ff88,#00d9ff);background-size:200% auto;-webkit-background-clip:text;-webkit-text-fill-color:transparent;animation:gradient 3s ease infinite}@keyframes gradient{0%,100%{background-position:0% center}50%{background-position:200% center}}.search-glow:focus{box-shadow:0 0 30px rgba(0,217,255,.4);border-color:rgba(0,217,255,.5)}.category-btn.active{background:linear-gradient(135deg,#00d9ff,#00ff88);color:#0a0a1a;font-weight:600}.category-btn:not(.active):hover{background:rgba(0,217,255,.15)}.region-btn.active{background:rgba(0,217,255,.2);border-color:#00d9ff;color:#00d9ff}.logo-container{width:56px;height:56px;border-radius:14px;display:flex;align-items:center;justify-content:center;font-size:24px;background:linear-gradient(135deg,rgba(0,217,255,.1),rgba(0,255,136,.1));border:1px solid rgba(255,255,255,.1);overflow:hidden}.logo-container img{width:100%;height:100%;object-fit:contain;padding:6px}.rating-star{color:#fbbf24;filter:drop-shadow(0 0 4px rgba(251,191,36,.4))}.tag-pill{background:linear-gradient(135deg,rgba(0,217,255,.1),rgba(0,255,136,.05));border:1px solid rgba(0,217,255,.2);transition:all .2s}.tag-pill:hover{background:rgba(0,217,255,.2);transform:scale(1.05)}.highlight-pill{background:linear-gradient(135deg,rgba(0,255,136,.1),rgba(0,217,255,.05));border:1px solid rgba(0,255,136,.2);color:#00ff88}.skeleton{background:linear-gradient(90deg,#1a1a3e 25%,#2a2a5e 50%,#1a1a3e 75%);background-size:200% 100%;animation:shimmer 2s infinite}@keyframes shimmer{0%{background-position:200% 0}100%{background-position:-200% 0}}.scrollbar-hide::-webkit-scrollbar{display:none}.scrollbar-hide{-ms-overflow-style:none;scrollbar-width:none}.modal-enter{animation:modalIn .3s ease-out}@keyframes modalIn{from{opacity:0;transform:scale(.95) translateY(20px)}to{opacity:1;transform:scale(1) translateY(0)}}.float-animation{animation:float 3s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-10px)}}.pulse-glow{animation:pulseGlow 2s ease-in-out infinite}@keyframes pulseGlow{0%,100%{box-shadow:0 0 20px rgba(0,217,255,.2)}50%{box-shadow:0 0 40px rgba(0,217,255,.4)}}.lang-dropdown{position:relative}.lang-dropdown-content{position:absolute;right:0;top:100%;margin-top:8px;background:rgba(15,15,35,.98);border:1px solid rgba(255,255,255,.1);border-radius:12px;padding:8px;min-width:140px;z-index:100;display:none}.lang-dropdown:hover .lang-dropdown-content{display:block}.lang-option{display:flex;align-items:center;gap:8px;padding:10px 14px;border-radius:8px;cursor:pointer;transition:all .2s}.lang-option:hover{background:rgba(0,217,255,.15)}.lang-option.active{background:rgba(0,217,255,.2);color:#00d9ff}
+</style>
+</head>
+<body class="text-white font-sans">
+<header class="glass border-b border-white/10 sticky top-0 z-50">
+<div class="max-w-7xl mx-auto px-4 py-4">
+<div class="flex items-center justify-between gap-4">
+<div class="flex items-center gap-3">
+<div class="w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-500 to-emerald-500 flex items-center justify-center text-xl float-animation">🎮</div>
+<div><h1 class="text-2xl font-bold gradient-text" id="siteTitle">GameNav</h1></div>
+<span class="hidden sm:inline text-gray-400 text-sm ml-2" id="siteSubtitle">游戏平台导航</span>
+</div>
+<div class="flex-1 max-w-xl">
+<div class="relative">
+<input type="text" id="searchInput" placeholder="搜索游戏平台、分类、标签..." class="w-full bg-white/5 border border-white/10 rounded-2xl px-5 py-3 pl-12 text-white placeholder-gray-500 focus:outline-none search-glow transition-all">
+<i class="fas fa-search absolute left-4 top-1/2 -translate-y-1/2 text-gray-400"></i>
+</div>
+</div>
+<div class="flex items-center gap-4">
+<div class="lang-dropdown">
+<button class="flex items-center gap-2 px-3 py-2 bg-white/5 rounded-xl hover:bg-white/10 transition-all">
+<i class="fas fa-globe"></i>
+<span id="currentLang" class="text-sm">中文</span>
+<i class="fas fa-chevron-down text-xs"></i>
+</button>
+<div class="lang-dropdown-content">
+<div class="lang-option active" data-lang="zh"><span>🇨🇳</span><span>中文</span></div>
+<div class="lang-option" data-lang="en"><span>🇺🇸</span><span>English</span></div>
+<div class="lang-option" data-lang="ja"><span>🇯🇵</span><span>日本語</span></div>
+<div class="lang-option" data-lang="ko"><span>🇰🇷</span><span>한국어</span></div>
+<div class="lang-option" data-lang="tw"><span>🇹🇼</span><span>繁體中文</span></div>
+</div>
+</div>
+<div id="statsCount" class="text-gray-400 text-sm hidden sm:block"></div>
+</div>
+</div>
+</header>
+
+<section class="hero-section py-12 px-4">
+<div class="max-w-7xl mx-auto text-center">
+<h2 class="text-4xl md:text-5xl font-bold mb-4"><span id="heroTitle1">发现全球</span><span class="gradient-text" id="heroTitle2">游戏平台</span></h2>
+<p class="text-gray-400 text-lg max-w-2xl mx-auto"><span id="heroDesc1">收录</span> <span class="text-cyan-400 font-bold" id="heroCount">30</span> <span id="heroDesc2">优质游戏平台，包括客户端、手游、页游、模拟器、媒体、社区等</span></p>
+</div>
+</section>
+
+<main class="max-w-7xl mx-auto px-4 pb-12">
+<div class="glass rounded-2xl p-4 mb-6 overflow-x-auto scrollbar-hide">
+<div class="flex items-center gap-2 min-w-max" id="categoryFilters">
+<button class="category-btn active px-5 py-2 rounded-xl bg-white/5 text-sm font-medium transition-all whitespace-nowrap" data-category="" id="catAll">全部平台</button>
+</div>
+</div>
+
+<div class="flex flex-wrap items-center gap-3 mb-8">
+<div class="flex items-center gap-2"><i class="fas fa-globe text-gray-500"></i><span class="text-gray-400 text-sm" id="regionLabel">地区:</span></div>
+<div class="flex flex-wrap gap-2" id="regionFilters">
+<button class="region-btn active px-3 py-1.5 rounded-lg bg-white/5 text-sm transition-all hover:bg-white/10" data-region="" id="regAll">全部</button>
+</div>
+<div class="flex-1"></div>
+<div class="flex items-center gap-3">
+<span class="text-gray-400 text-sm"><i class="fas fa-sort mr-1"></i><span id="sortLabel">排序:</span></span>
+<select id="sortSelect" class="bg-white/5 border border-white/10 rounded-xl px-4 py-2 text-sm focus:outline-none cursor-pointer">
+<option value="rating">评分最高 ⭐</option>
+<option value="name">名称排序 🔤</option>
+<option value="category">分类排序 📂</option>
+</select>
+</div>
+</div>
+
+<div id="loadingState" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
+<div class="skeleton h-56 rounded-2xl"></div><div class="skeleton h-56 rounded-2xl"></div>
+<div class="skeleton h-56 rounded-2xl"></div><div class="skeleton h-56 rounded-2xl"></div>
+</div>
+<div id="platformsGrid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5 hidden"></div>
+<div id="emptyState" class="hidden text-center py-20">
+<div class="text-7xl mb-6 float-animation">🔍</div>
+<h3 class="text-2xl font-bold mb-3" id="emptyTitle">没有找到匹配的平台</h3>
+<p class="text-gray-400 mb-6" id="emptyDesc">换个关键词试试，或者清除筛选条件</p>
+<button onclick="clearFilters()" class="px-6 py-3 bg-gradient-to-r from-cyan-500 to-emerald-500 rounded-xl font-bold hover:opacity-90 transition"><i class="fas fa-redo mr-2"></i><span id="emptyBtn">清除筛选</span></button>
+</div>
+</main>
+
+<div id="modal" class="fixed inset-0 bg-black/80 backdrop-blur-md z-50 hidden items-center justify-center p-4">
+<div class="glass rounded-3xl max-w-2xl w-full max-h-[90vh] overflow-y-auto modal-enter">
+<div class="p-6">
+<div class="flex items-start justify-between mb-6">
+<div class="flex items-center gap-4">
+<div id="modalLogo" class="logo-container text-3xl">🎮</div>
+<div><h2 id="modalName" class="text-2xl font-bold"></h2><p id="modalNameCn" class="text-gray-400"></p></div>
+</div>
+<button onclick="closeModal()" class="p-2 hover:bg-white/10 rounded-xl transition"><i class="fas fa-times text-xl"></i></button>
+</div>
+<div id="modalRating" class="flex items-center gap-2 mb-4"><span class="rating-star text-xl"><i class="fas fa-star"></i></span><span class="text-2xl font-bold"></span><span class="text-gray-400 text-sm">/ 10</span></div>
+<div id="modalTags" class="flex flex-wrap gap-2 mb-5"></div>
+<p id="modalDesc" class="text-gray-300 mb-5 leading-relaxed text-lg"></p>
+<div class="grid grid-cols-2 gap-4 mb-5">
+<div class="bg-gradient-to-br from-cyan-500/10 to-transparent rounded-2xl p-4 border border-cyan-500/20">
+<div class="text-gray-400 text-xs mb-1 uppercase tracking-wider"><i class="fas fa-gamepad mr-1"></i><span id="modalGameCountLabel">游戏数量</span></div>
+<div id="modalGameCount" class="font-bold text-lg text-cyan-400"></div>
+</div>
+<div class="bg-gradient-to-br from-emerald-500/10 to-transparent rounded-2xl p-4 border border-emerald-500/20">
+<div class="text-gray-400 text-xs mb-1 uppercase tracking-wider"><i class="fas fa-globe mr-1"></i><span id="modalRegionLabel">覆盖地区</span></div>
+<div id="modalRegion" class="font-bold text-lg text-emerald-400"></div>
+</div>
+</div>
+<div id="modalHighlights" class="mb-6">
+<div class="text-gray-400 text-xs mb-3 uppercase tracking-wider"><i class="fas fa-star mr-1"></i><span id="modalHighlightsLabel">平台亮点</span></div>
+<div class="flex flex-wrap gap-2"></div>
+</div>
+<a id="modalUrl" href="#" target="_blank" class="flex items-center justify-center gap-2 w-full bg-gradient-to-r from-cyan-500 to-emerald-500 text-black py-4 rounded-2xl font-bold text-lg hover:opacity-90 transition pulse-glow"><i class="fas fa-external-link-alt"></i><span id="modalVisitBtn">访问官网</span></a>
+</div>
+</div>
+</div>
+
+<footer class="text-center py-10 text-gray-500 text-sm border-t border-white/5">
+<div class="max-w-7xl mx-auto px-4">
+<p class="mb-2">GameNav · <span id="footerTitle">游戏平台导航</span> · <span id="footerYear"></span></p>
+<p class="text-xs" id="footerDesc">收录全球优质游戏平台，助力玩家发现好游戏</p>
+</div>
+</footer>
+
+<script>
+const I18N={zh:{siteTitle:'GameNav',siteSubtitle:'游戏平台导航',heroTitle1:'发现全球',heroTitle2:'游戏平台',heroDesc1:'收录',heroDesc2:'优质游戏平台，包括客户端、手游、页游、模拟器、媒体、社区等',catAll:'全部平台',regionLabel:'地区:',regAll:'全部',sortLabel:'排序:',emptyTitle:'没有找到匹配的平台',emptyDesc:'换个关键词试试，或者清除筛选条件',emptyBtn:'清除筛选',modalGameCountLabel:'游戏数量',modalRegionLabel:'覆盖地区',modalHighlightsLabel:'平台亮点',modalVisitBtn:'访问官网',footerTitle:'游戏平台导航',footerDesc:'收录全球优质游戏平台，助力玩家发现好游戏',searchPlaceholder:'搜索游戏平台、分类、标签...','客户端':'客户端','手游':'手游','页游':'网页游戏','模拟器':'模拟器','媒体':'游戏媒体','工具':'游戏工具','社区':'游戏社区','折扣':'折扣平台','加速器':'游戏加速器','直播':'直播平台','交易':'游戏交易','怀旧':'怀旧游戏','主机':'主机平台','开发':'游戏开发','硬件':'游戏硬件','云游戏':'云游戏','街机':'街机游戏','下载':'游戏下载','类型':'游戏类型','导航':'游戏导航','全球':'全球','中国大陆':'中国大陆','日本':'日本','韩国':'韩国','港澳台':'港澳台','欧洲':'欧洲','北美':'北美','东南亚':'东南亚','俄罗斯':'俄罗斯','非洲':'非洲','印度':'印度','中东':'中东','南美':'南美','澳洲':'澳洲'},en:{siteTitle:'GameNav',siteSubtitle:'Game Platform Directory',heroTitle1:'Discover',heroTitle2:'Game Platforms',heroDesc1:'A collection of ',heroDesc2:' game platforms including client, mobile, web, emulators, media, communities and more',catAll:'All',regionLabel:'Region:',regAll:'All',sortLabel:'Sort:',emptyTitle:'No matching platforms found',emptyDesc:'Try a different keyword or clear filters',emptyBtn:'Clear Filters',modalGameCountLabel:'Game Count',modalRegionLabel:'Region',modalHighlightsLabel:'Highlights',modalVisitBtn:'Visit Website',footerTitle:'Game Platform Directory',footerDesc:'Discover the best game platforms worldwide',searchPlaceholder:'Search platforms, categories, tags...','客户端':'Client','手游':'Mobile','页游':'Web Games','模拟器':'Emulators','媒体':'Media','工具':'Tools','社区':'Community','折扣':'Discount','加速器':'Accelerator','直播':'Streaming','交易':'Trading','怀旧':'Retro','主机':'Console','开发':'Development','硬件':'Hardware','云游戏':'Cloud Gaming','街机':'Arcade','下载':'Download','类型':'Genre','导航':'Directory','全球':'Global','中国大陆':'China','日本':'Japan','韩国':'Korea','港澳台':'HK/TW/MO','欧洲':'Europe','北美':'North America','东南亚':'Southeast Asia','俄罗斯':'Russia','非洲':'Africa','印度':'India','中东':'Middle East','南美':'South America','澳洲':'Australia'},ja:{siteTitle:'GameNav',siteSubtitle:'ゲームプラットフォーム',heroTitle1:'グローバル',heroTitle2:'ゲームプラットフォーム',heroDesc1:'',heroDesc2:'クライアント、モバイル、ウェブ、エミュレータ、メディア、コミュニティなど',catAll:'全て',regionLabel:'地域:',regAll:'全て',sortLabel:'並び替え:',emptyTitle:'一致するプラットフォームが見つかりません',emptyDesc:'別のキーワード试试するか、フィルタをクリアしてください',emptyBtn:'フィルタをクリア',modalGameCountLabel:'ゲーム数',modalRegionLabel:'対応地域',modalHighlightsLabel:'ハイライト',modalVisitBtn:'公式サイト訪問',footerTitle:'ゲームプラットフォーム',footerDesc:'世界中の素晴らしいゲームプラットフォームを見つける',searchPlaceholder:'プラットフォーム、カテゴリ、タグを検索...','客户端':'クライアント','手游':'モバイル','页游':'ブラウザゲーム','模拟器':'エミュレータ','媒体':'メディア','工具':'ツール','社区':'コミュニティ','折扣':'割引','加速器':'アクセラレーター','直播':'配信','交易':'取引','怀旧':'レトロ','主机':'コンソール','开发':'開発','硬件':'ハードウェア','云游戏':'クラウドゲーム','街机':'アーケード','下载':'ダウンロード','类型':'ジャンル','导航':'ディレクトリ','全球':'グローバル','中国大陆':'中国本土','日本':'日本','韩国':'韓国','港澳台':'香港/台湾/マカオ','欧洲':'ヨーロッパ','北美':'北米','东南亚':'東南アジア','俄罗斯':'ロシア','非洲':'アフリカ','印度':'インド','中东':'中東','南美':'南米','澳洲':'オーストラリア'},ko:{siteTitle:'GameNav',siteSubtitle:'게임 플랫폼',heroTitle1:'전세계',heroTitle2:'게임 플랫폼',heroDesc1:'',heroDesc2:'클라이언트, 모바일, 웹, 에뮬레이터, 미디어, 커뮤니티 등',catAll:'전체',regionLabel:'지역:',regAll:'전체',sortLabel:'정렬:',emptyTitle:'일치하는 플랫폼이 없습니다',emptyDesc:'다른 키워드를 시도하거나 필터를クリアしてください',emptyBtn:'필터クリア',modalGameCountLabel:'게임 수',modalRegionLabel:'対応地域',modalHighlightsLabel:'하이라이트',modalVisitBtn:'공식 사이트',footerTitle:'게임 플랫폼',footerDesc:'전 세계의 훌륭한 게임 플랫폼을 발견하세요',searchPlaceholder:'플랫폼, 카테고리, 태그 검색...','客户端':'클라이언트','手游':'모바일','页游':'웹 게임','模拟器':'에뮬레이터','媒体':'미디어','工具':'도구','社区':'커뮤니티','折扣':'할인','加速器':'가속기','直播':'스트리밍','交易':'거래','怀旧':'레트로','主机':'콘솔','开发':'개발','硬件':'하드웨어','云游戏':'클라우드 게임','街机':'아케이드','下载':'다운로드','类型':'장르','导航':'디렉토리','全球':'グローバル','中国大陆':'중국 본토','日本':'일본','韩国':'한국','港澳台':'홍콩/대만/마카오','欧洲':'유럽','北美':'북미','东南亚':'동남아시아','俄罗斯':'러시아','非洲':'아프리카','印度':'인도','中东':'중동','南美':'남미','澳洲':'호주'},tw:{siteTitle:'GameNav',siteSubtitle:'遊戲平台導航',heroTitle1:'發現全球',heroTitle2:'遊戲平台',heroDesc1:'收錄',heroDesc2:'優質遊戲平台，包括客戶端、手遊、頁遊、模擬器、媒體、社區等',catAll:'全部平台',regionLabel:'地區:',regAll:'全部',sortLabel:'排序:',emptyTitle:'沒有找到匹配的平台',emptyDesc:'換個關鍵詞試試，或者清除篩選條件',emptyBtn:'清除篩選',modalGameCountLabel:'遊戲數量',modalRegionLabel:'覆蓋地區',modalHighlightsLabel:'平台亮點',modalVisitBtn:'訪問官網',footerTitle:'遊戲平台導航',footerDesc:'收錄全球優質遊戲平台，助力玩家發現好遊戲',searchPlaceholder:'搜尋遊戲平台、分類、標籤...','客户端':'客戶端','手游':'手遊','页游':'網頁遊戲','模拟器':'模擬器','媒体':'遊戲媒體','工具':'遊戲工具','社区':'遊戲社區','折扣':'折扣平台','加速器':'遊戲加速器','直播':'直播平台','交易':'遊戲交易','怀旧':'懷舊遊戲','主机':'主機平台','开发':'遊戲開發','硬件':'遊戲硬件','云游戏':'雲遊戲','街机':'街機遊戲','下载':'遊戲下載','类型':'遊戲類型','导航':'遊戲導航','全球':'全球','中国大陆':'中國大陸','日本':'日本','韩国':'韓國','港澳台':'港澳台','欧洲':'歐洲','北美':'北美','东南亚':'東南亞','俄罗斯':'俄羅斯','非洲':'非洲','印度':'印度','中东':'中東','南美':'南美','澳洲':'澳洲'}};
+const LANG_NAMES={zh:'中文',en:'English',ja:'日本語',ko:'한국어',tw:'繁體中文'};
+let currentLang=localStorage.getItem('gamenav_lang')||'zh',platforms=[],categories=new Set(),regions=new Set(),currentCategory='',currentRegion='',searchQuery='';
+function t(key){const dict=I18N[currentLang]||I18N.zh;return dict[key]||key}
+function setLanguage(lang){currentLang=lang;localStorage.setItem('gamenav_lang',lang);
+document.getElementById('currentLang').textContent=LANG_NAMES[lang];
+document.querySelectorAll('.lang-option').forEach(opt=>{opt.classList.toggle('active',opt.dataset.lang===lang);});
+['siteTitle','siteSubtitle','heroTitle1','heroTitle2','heroDesc1','heroDesc2','catAll','regionLabel','regAll','sortLabel','emptyTitle','emptyDesc','emptyBtn','modalGameCountLabel','modalRegionLabel','modalHighlightsLabel','modalVisitBtn','footerTitle','footerDesc'].forEach(id=>{const el=document.getElementById(id);if(el)el.textContent=t(id);});
+document.getElementById('searchInput').placeholder=t('searchPlaceholder');document.getElementById('footerYear').textContent=new Date().getFullYear();renderFilters();renderPlatforms();}
+function debounce(func,wait){let timeout;return function(...args){clearTimeout(timeout);timeout=setTimeout(()=>func(...args),wait);};}
+document.addEventListener('DOMContentLoaded',()=>{document.getElementById('footerYear').textContent=new Date().getFullYear();loadData();setupEventListeners();setLanguage(currentLang);});
+function setupEventListeners(){document.getElementById('searchInput').addEventListener('input',debounce(e=>{searchQuery=e.target.value.toLowerCase();renderPlatforms();},250));document.getElementById('sortSelect').addEventListener('change',renderPlatforms);document.querySelectorAll('.lang-option').forEach(opt=>{opt.addEventListener('click',()=>setLanguage(opt.dataset.lang));});}
+async function loadData(){try{const response=await fetch('data/platforms.json');if(!response.ok)throw new Error('Failed to load');platforms=await response.json();extractFilters();renderFilters();renderPlatforms();updateStats();}catch(error){document.getElementById('loadingState').innerHTML='<div class="col-span-full text-center py-20"><div class="text-7xl mb-6">😢</div><h3 class="text-2xl font-bold mb-3">加载失败</h3><p class="text-gray-400">请刷新页面重试</p></div>';}}
+function extractFilters(){platforms.forEach(p=>{(p.category||[]).forEach(c=>categories.add(c));(p.region||[]).forEach(r=>regions.add(r));});}
+function renderFilters(){const catContainer=document.getElementById('categoryFilters'),regContainer=document.getElementById('regionFilters');const sortedCats=Array.from(categories).sort();catContainer.innerHTML=`<button class="category-btn ${!currentCategory?'active':''} px-5 py-2 rounded-xl bg-white/5 text-sm font-medium transition-all whitespace-nowrap" data-category="">${t('catAll')}</button>`;sortedCats.forEach(cat=>{catContainer.innerHTML+=`<button class="category-btn ${currentCategory===cat?'active':''} px-5 py-2 rounded-xl bg-white/5 text-sm font-medium transition-all whitespace-nowrap" data-category="${cat}">${t(cat)}</button>`;});catContainer.querySelectorAll('.category-btn').forEach(btn=>{btn.addEventListener('click',()=>{currentCategory=btn.dataset.category;renderFilters();renderPlatforms();});});const sortedRegs=Array.from(regions).sort();regContainer.innerHTML=`<button class="region-btn ${!currentRegion?'active':''} px-3 py-1.5 rounded-lg bg-white/5 text-sm transition-all" data-region="">${t('regAll')}</button>`;sortedRegs.forEach(reg=>{regContainer.innerHTML+=`<button class="region-btn ${currentRegion===reg?'active':''} px-3 py-1.5 rounded-lg bg-white/5 text-sm transition-all" data-region="${reg}">${t(reg)}</button>`;});regContainer.querySelectorAll('.region-btn').forEach(btn=>{btn.addEventListener('click',()=>{currentRegion=btn.dataset.region;renderFilters();renderPlatforms();});});}
+function getLogoEmoji(name){const nameLower=name.toLowerCase();if(nameLower.includes('steam'))return'🎮';if(nameLower.includes('epic'))return'🛒';if(nameLower.includes('gog'))return'👴';if(nameLower.includes('wegame')||nameLower.includes('腾讯'))return'🐧';if(nameLower.includes('battle')||nameLower.includes('blizzard')||nameLower.includes('暴雪'))return'🐺';if(nameLower.includes('ea'))return'🎯';if(nameLower.includes('taptap'))return'📱';if(nameLower.includes('4399'))return'🎲';if(nameLower.includes('nga'))return'📺';if(nameLower.includes('discord'))return'💬';if(nameLower.includes('twitch'))return'📺';if(nameLower.includes('bilibili')||nameLower.includes('b站'))return'🔴';if(nameLower.includes('斗鱼'))return'🐟';if(nameLower.includes('虎牙'))return'🐯';if(nameLower.includes('steamdb'))return'📊';if(nameLower.includes('模拟器'))return'🎴';if(nameLower.includes('switch'))return'🎮';if(nameLower.includes('xbox'))return'🎮';if(nameLower.includes('nintendo'))return'🎴';if(nameLower.includes('加速器'))return'🚀';if(nameLower.includes('折扣')||nameLower.includes('bundle'))return'💰';if(nameLower.includes('交易')||nameLower.includes('market'))return'🔄';return'🎮';}
+function renderPlatforms(){const grid=document.getElementById('platformsGrid'),loading=document.getElementById('loadingState'),empty=document.getElementById('emptyState');let filtered=platforms.filter(p=>{if(currentCategory&&!(p.category||[]).includes(currentCategory))return false;if(currentRegion&&!(p.region||[]).includes(currentRegion))return false;if(searchQuery){const searchable=[p.name,p.name_cn,p.description,...(p.tags||[])].join(' ').toLowerCase();if(!searchable.includes(searchQuery))return false;}return true;});const sortBy=document.getElementById('sortSelect').value;if(sortBy==='rating')filtered.sort((a,b)=>(b.rating||0)-(a.rating||0));else if(sortBy==='name')filtered.sort((a,b)=>(a.name_cn||a.name).localeCompare(b.name_cn||b.name));else filtered.sort((a,b)=>(a.category||[]).join().localeCompare((b.category||[]).join()));loading.classList.add('hidden');if(filtered.length===0){grid.classList.add('hidden');empty.classList.remove('hidden');return;}empty.classList.add('hidden');grid.classList.remove('hidden');grid.innerHTML=filtered.map(p=>`<div class="glass rounded-2xl p-5 card-hover cursor-pointer glass-hover" onclick="showModal('${p.id}')"><div class="flex items-start gap-4 mb-4"><div class="logo-container flex-shrink-0">${p.logo?`<img src="${p.logo}" alt="${p.name}" onerror="this.parentElement.innerHTML='${getLogoEmoji(p.name)}'" loading="lazy">`:getLogoEmoji(p.name)}</div><div class="flex-1 min-w-0"><h3 class="font-bold text-lg truncate">${p.name_cn||p.name}</h3><p class="text-gray-400 text-sm truncate">${p.name}</p></div><div class="flex items-center gap-1 rating-star text-sm"><i class="fas fa-star"></i><span class="font-bold">${(p.rating||0).toFixed(1)}</span></div></div><p class="text-gray-400 text-sm line-clamp-2 mb-4 leading-relaxed">${p.description||''}</p><div class="flex items-center justify-between"><div class="flex flex-wrap gap-1">${(p.tags||[]).slice(0,2).map(tag=>`<span class="tag-pill px-2 py-0.5 rounded-lg text-xs">${t(tag)}</span>`).join('')}</div></div></div>`).join('');}
+function showModal(id){const p=platforms.find(x=>x.id===id);if(!p)return;const logoContainer=document.getElementById('modalLogo');logoContainer.innerHTML=p.logo?`<img src="${p.logo}" alt="${p.name}" onerror="this.innerHTML='${getLogoEmoji(p.name)}'" loading="lazy">`:getLogoEmoji(p.name);document.getElementById('modalName').textContent=p.name;document.getElementById('modalNameCn').textContent=p.name_cn||'';document.getElementById('modalRating').querySelector('span.text-2xl').textContent=`${(p.rating||0).toFixed(1)}`;document.getElementById('modalDesc').textContent=p.description||'';document.getElementById('modalGameCount').textContent=p.game_count||'未知';document.getElementById('modalRegion').textContent=(p.region||[]).map(r=>t(r)).join(', ')||'全球';const url=document.getElementById('modalUrl');url.href=p.url;url.target='_blank';document.getElementById('modalTags').innerHTML=(p.category||[]).map(c=>`<span class="tag-pill px-3 py-1 rounded-xl text-sm">${t(c)}</span>`).join('');document.getElementById('modalHighlights').querySelector('div:last-child').innerHTML=(p.highlights||[]).map(h=>`<span class="highlight-pill px-3 py-1 rounded-xl text-sm">${h}</span>`).join('');document.getElementById('modal').classList.remove('hidden');document.getElementById('modal').classList.add('flex');document.body.style.overflow='hidden';}
+function closeModal(){document.getElementById('modal').classList.add('hidden');document.getElementById('modal').classList.remove('flex');document.body.style.overflow='';}
+function clearFilters(){currentCategory='';currentRegion='';searchQuery='';document.getElementById('searchInput').value='';renderFilters();renderPlatforms();}
+function updateStats(){const count=platforms.length;document.getElementById('statsCount').textContent=`共 ${count} 个平台`;document.getElementById('heroCount').textContent=count;}
+document.getElementById('modal').addEventListener('click',e=>{if(e.target===e.currentTarget)closeModal();});document.addEventListener('keydown',e=>{if(e.key==='Escape')closeModal();});
+</script>
+</body>
+</html>
