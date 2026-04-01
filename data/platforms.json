@@ -7,8 +7,7 @@
     "logo": "https://cdn.steamchina.com/upload/avatar/steam_default_avatar.png",
     "description": "全球最大综合性数字游戏分发平台，拥有超过50000款游戏，社区功能强大，创意工坊丰富。支持MOD、上传截图、好友聊天、云存档等功能。定期举办大型促销活动（夏季/冬季特卖）。当前在线约5000万玩家。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "大型",
@@ -39,8 +38,7 @@
     "logo": "https://cdn.epicgames.com/favicon.ico",
     "description": "Epic Games出品游戏及独占游戏平台，每周免费游戏赠送，旗下拥有虚幻引擎等开发工具。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独占",
@@ -66,8 +64,7 @@
     "logo": "https://www.gog.com/favicon.ico",
     "description": "CD Projekt旗下游戏平台，主打无DRM数字游戏，擅长经典老游戏修复和合集。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "无DRM",
@@ -93,8 +90,7 @@
     "logo": "https://www.wegame.com.cn/favicon.ico",
     "description": "腾讯官方游戏平台，整合游戏社交、直播、助手等功能，专注国内游戏市场。",
     "category": [
-      "客户端",
-      "国内"
+      "客户端"
     ],
     "tags": [
       "综合",
@@ -120,8 +116,7 @@
     "logo": "https://www.ea.com/favicon.ico",
     "description": "EA官方游戏启动器，整合EA游戏、订阅服务EA Play。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "EA游戏",
@@ -147,8 +142,7 @@
     "logo": "https://www.blizzard.com/favicon.ico",
     "description": "暴雪娱乐官方游戏平台，承载魔兽世界、暗黑破坏神、守望先锋、炉石传说等经典游戏。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "暴雪游戏",
@@ -174,8 +168,7 @@
     "logo": "https://www.humblebundle.com/favicon.ico",
     "description": "游戏慈善包先驱，以捆绑包形式销售游戏，支持慈善事业，订阅服务Humble Choice月度可选游戏。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "慈善包",
@@ -204,8 +197,7 @@
     "logo": "https://fanatical.com/favicon.ico",
     "description": "知名游戏数字零售商，经常性特卖活动，Steam/Origin Key。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "游戏Key",
@@ -231,8 +223,7 @@
     "logo": "https://www.taptap.cn/favicon.ico",
     "description": "高品质手游发现社区，提供游戏评测、下载、社区交流，开发者服务平台。玩家可以在这里发现新游戏、查看评分、参与讨论。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "手游",
@@ -240,7 +231,6 @@
       "评测"
     ],
     "region": [
-      "华南",
       "中国大陆"
     ],
     "game_count": "50000+",
@@ -262,8 +252,7 @@
     "logo": "https://openfile.4399.cn/openfile/4399logo.png",
     "description": "4399旗下手游发现与下载平台，以游戏攻略和福利著称。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "手游",
@@ -271,7 +260,6 @@
       "福利"
     ],
     "region": [
-      "华南",
       "中国大陆"
     ],
     "game_count": "10000+",
@@ -290,8 +278,7 @@
     "logo": "https://openfile.gtimg.cn/group1/M00/3A/51/Cgogs1_VI9OEBkSsAAAANJ4-0SY441.png",
     "description": "腾讯官方手机应用商店，游戏分发量国内领先。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "手游",
@@ -299,7 +286,6 @@
       "应用商店"
     ],
     "region": [
-      "华南",
       "中国大陆"
     ],
     "game_count": "100000+",
@@ -318,8 +304,7 @@
     "logo": "https://apps.apple.com/favicon.ico",
     "description": "苹果官方iOS应用商店，iOS游戏分发唯一官方渠道。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "iOS",
@@ -345,8 +330,7 @@
     "logo": "https://play.google.com/favicon.ico",
     "description": "谷歌官方安卓应用商店，全球最大安卓应用分发平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "Android",
@@ -371,9 +355,7 @@
     "logo": "https://mumu.163.com/favicon.ico",
     "description": "网易官方安卓模拟器，支持电脑玩手游，深度优化流畅度。",
     "category": [
-      "手游",
-      "工具",
-      "国内"
+      "手游"
     ],
     "tags": [
       "模拟器",
@@ -381,7 +363,6 @@
       "电脑玩手游"
     ],
     "region": [
-      "华东",
       "中国大陆"
     ],
     "game_count": "支持所有手游",
@@ -400,8 +381,7 @@
     "logo": "https://www.bignox.com/favicon.ico",
     "description": "知名安卓模拟器，支持Mac/Windows，专注手游电脑玩。",
     "category": [
-      "手游",
-      "工具"
+      "手游"
     ],
     "tags": [
       "模拟器",
@@ -427,8 +407,7 @@
     "logo": "https://www.ldplayer.net/favicon.ico",
     "description": "主流安卓模拟器之一，深度优化多款主流手游。",
     "category": [
-      "手游",
-      "工具"
+      "手游"
     ],
     "tags": [
       "模拟器",
@@ -454,8 +433,7 @@
     "logo": "https://www.4399.com/favicon.ico",
     "description": "国内最大页游小游戏平台之一，涵盖休闲益智、动作冒险等品类。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "小游戏",
@@ -481,8 +459,7 @@
     "logo": "https://www.7k7k.com/favicon.ico",
     "description": "知名页游小游戏平台，游戏种类丰富，更新及时。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "小游戏",
@@ -615,8 +592,7 @@
     "logo": "https://www.gamersky.com/favicon.ico",
     "description": "国内最大游戏媒体之一，提供游戏新闻、评测、攻略、补丁下载、视频内容。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -646,8 +622,7 @@
     "logo": "https://www.3dmgame.com/favicon.ico",
     "description": "老牌游戏媒体，以游戏汉化和破解起家，现为综合游戏媒体，提供攻略和下载服务。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -674,8 +649,7 @@
     "description": "国内最大专业游戏社区之一，以魔兽、暗黑等暴雪系游戏起家，辐射全品类，攻略深度好。",
     "category": [
       "社区",
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏社区",
@@ -701,8 +675,7 @@
     "logo": "https://www.gcores.com/favicon.ico",
     "description": "专注游戏深度内容的媒体平台，提供游戏评论、文化分析、电台节目和视频。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏文化",
@@ -731,8 +704,7 @@
     "logo": "https://steampp.net/favicon.ico",
     "description": "Steam游戏工具箱，提供账号绑定、愿望单监控、价格提醒、游戏统计、本地令牌验证等多功能。",
     "category": [
-      "工具",
-      "国内"
+      "其他"
     ],
     "tags": [
       "Steam",
@@ -740,7 +712,7 @@
       "价格监控"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "工具类",
     "highlights": [
@@ -762,8 +734,7 @@
     "logo": "https://www.xiaoheihe.cn/favicon.ico",
     "description": "Steam游戏辅助工具，提供游戏数据、战绩查询、社区功能。",
     "category": [
-      "工具",
-      "国内"
+      "其他"
     ],
     "tags": [
       "Steam",
@@ -789,8 +760,7 @@
     "logo": "https://steamdb.info/static/img/favicon.png",
     "description": "Steam游戏数据库，提供游戏价格、史低、Steam内部数据查询，追踪Steam游戏历史价格。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "Steam",
@@ -816,8 +786,7 @@
     "logo": "https://discord.com/favicon.ico",
     "description": "游戏玩家首选的即时通讯工具，全球有数十万个游戏服务器，支持语音视频聊天和屏幕共享。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "即时通讯",
@@ -843,8 +812,7 @@
     "logo": "https://www.sonkwo.com/favicon.ico",
     "description": "国内知名游戏数字零售商，提供Steam/Epic游戏Key。",
     "category": [
-      "折扣",
-      "国内"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -870,9 +838,7 @@
     "logo": "https://www.bilibili.com/favicon.ico",
     "description": "国内最大游戏视频社区，拥有众多游戏UP主和直播主播，弹幕文化独特。",
     "category": [
-      "直播",
-      "视频",
-      "国内"
+      "直播"
     ],
     "tags": [
       "游戏视频",
@@ -901,8 +867,7 @@
     "logo": "https://ubisoftconnect.com/favicon.ico",
     "description": "育碧官方游戏平台，提供育碧全系列游戏及社交功能。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "育碧游戏",
@@ -927,8 +892,7 @@
     "logo": "https://www.microsoft.com/favicon.ico",
     "description": "微软官方游戏商店，Xbox PC游戏及Windows平台游戏。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "Xbox",
@@ -953,8 +917,7 @@
     "logo": "https://img.qoo-app.com/icon/qooapp_logo.png",
     "description": "专注日韩手游的游戏商店，提供游戏下载、资讯、社区。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "日韩游戏",
@@ -981,8 +944,7 @@
     "description": "提供FC/SFC等经典游戏模拟器，在线玩童年游戏。",
     "category": [
       "模拟器",
-      "怀旧",
-      "国内"
+      "怀旧"
     ],
     "tags": [
       "FC",
@@ -1008,8 +970,7 @@
     "logo": "https://www.a9vg.com/images/a9vg_logo.png",
     "description": "资深游戏媒体，专注主机游戏，提供游戏评测与攻略。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "主机游戏",
@@ -1035,8 +996,7 @@
     "logo": "https://www.17173.com/common/images/logo17173.png",
     "description": "国内老牌游戏门户，提供游戏新闻、赛事、视频等内容。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -1062,8 +1022,7 @@
     "logo": "https://www.chuapp.com/images/chuapp-logo.png",
     "description": "深度游戏媒体，关注游戏产业与文化。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏产业",
@@ -1089,8 +1048,7 @@
     "logo": "https://www.ali213.net/images/ali213_logo.png",
     "description": "综合游戏媒体，提供游戏资讯、攻略、补丁下载。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -1116,8 +1074,7 @@
     "logo": "https://steamcharts.com/favicon.ico",
     "description": "Steam游戏在线人数统计，追踪各游戏实时和历史在线数据，了解游戏热度变化。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "Steam",
@@ -1146,9 +1103,7 @@
     "logo": "https://isthereanydeal.com/favicon.ico",
     "description": "游戏价格追踪比较网站，聚合全球Steam Key价格，找到史低价格，支持降价提醒。",
     "category": [
-      "工具",
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "价格比较",
@@ -1174,9 +1129,7 @@
     "logo": "https://www.gg.com/images/gg-logo.png",
     "description": "Steam游戏折扣信息聚合，第一时间推送游戏打折资讯。",
     "category": [
-      "工具",
-      "折扣",
-      "国内"
+      "折扣"
     ],
     "tags": [
       "折扣",
@@ -1202,8 +1155,7 @@
     "logo": "https://www.redditstatic.com/desktop2/dist/img/reddit-logo.png",
     "description": "Reddit最大游戏社区，聚合各类游戏讨论、新闻、Meme。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "游戏社区",
@@ -1229,8 +1181,7 @@
     "logo": "https://tb1.bdstatic.com/tb/img/tieba_logo.png",
     "description": "百度贴吧游戏社区，各主流游戏均有专属贴吧。",
     "category": [
-      "社区",
-      "国内"
+      "社区"
     ],
     "tags": [
       "游戏贴吧",
@@ -1256,8 +1207,7 @@
     "logo": "https://steamcommunity.com/public/images/steam_logo.png",
     "description": "Steam官方社区，包含游戏论坛、创意工坊、截图分享等。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "Steam",
@@ -1283,8 +1233,7 @@
     "logo": "https://www.indiegala.com/images/ig_logo.png",
     "description": "游戏数字零售商，专注独立游戏，经常性举办捆绑包活动，支持慈善捐款。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "独立游戏",
@@ -1313,8 +1262,7 @@
     "logo": "https://chrono.gg/images/chrono-logo.png",
     "description": "游戏特卖平台，每天一款游戏折扣，支持Steam。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "每日特惠",
@@ -1340,8 +1288,7 @@
     "logo": "https://www.gamebillet.com/images/gb_logo.png",
     "description": "欧洲游戏数字零售商，价格优惠，支持Steam/Origin Key。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -1367,8 +1314,7 @@
     "logo": "https://uu.163.com/images/uu-logo.png",
     "description": "网易出品游戏加速器，支持主机、PC、手游加速。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -1376,7 +1322,7 @@
       "网易"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "工具类",
     "highlights": [
@@ -1394,8 +1340,7 @@
     "logo": "https://speed.qq.com/images/logo.png",
     "description": "腾讯官方游戏加速器，支持众多游戏加速。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -1403,7 +1348,7 @@
       "免费"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "工具类",
     "highlights": [
@@ -1421,8 +1366,7 @@
     "logo": "https://www.xunyou.com/images/xunyou-logo.png",
     "description": "专业游戏加速器，支持Steam、主机游戏等。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -1430,7 +1374,7 @@
       "主机"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "工具类",
     "highlights": [
@@ -1448,8 +1392,7 @@
     "logo": "https://www.qiyoplus.com/images/qiyoplus-logo.png",
     "description": "游戏网络加速器，支持PC/PS/Xbox/Switch多平台。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -1457,7 +1400,7 @@
       "主机"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "工具类",
     "highlights": [
@@ -1475,8 +1418,7 @@
     "logo": "https://www.douyu.com/favicon.ico",
     "description": "国内顶级游戏直播平台，众多知名游戏主播入驻，提供高清游戏直播和弹幕互动。",
     "category": [
-      "直播",
-      "国内"
+      "直播"
     ],
     "tags": [
       "游戏直播",
@@ -1505,8 +1447,7 @@
     "logo": "https://www.huya.com/favicon.ico",
     "description": "国内领先的游戏直播平台，涵盖各类游戏内容。",
     "category": [
-      "直播",
-      "国内"
+      "直播"
     ],
     "tags": [
       "游戏直播",
@@ -1532,8 +1473,7 @@
     "logo": "https://www.twitch.tv/favicon.ico",
     "description": "全球最大游戏直播平台，涵盖游戏、音乐、创意等内容，拥有数百万活跃主播。",
     "category": [
-      "直播",
-      "国际"
+      "直播"
     ],
     "tags": [
       "游戏直播",
@@ -1559,8 +1499,7 @@
     "logo": "https://www.youtube.com/s/desktop/favicon.ico",
     "description": "YouTube游戏专区，全球最大游戏视频平台之一。",
     "category": [
-      "视频",
-      "国际"
+      "其他"
     ],
     "tags": [
       "游戏视频",
@@ -1586,8 +1525,7 @@
     "logo": "https://steamcommunity.com/public/images/steam_logo.png",
     "description": "Steam官方道具交易市场，支持CSGO、Dota2等游戏物品交易。",
     "category": [
-      "交易",
-      "国际"
+      "交易"
     ],
     "tags": [
       "道具交易",
@@ -1613,8 +1551,7 @@
     "logo": "https://www.igxe.cn/favicon.ico",
     "description": "国内专业电竞饰品交易平台，支持CSGO、Dota2等游戏道具交易。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "饰品交易",
@@ -1640,8 +1577,7 @@
     "logo": "https://www.c5game.com/images/c5_logo.png",
     "description": "专业游戏道具交易平台，支持Steam游戏饰品交易。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "道具交易",
@@ -1667,8 +1603,7 @@
     "logo": "https://www.duowan.com/images/logo.png",
     "description": "游戏资讯门户，提供游戏新闻、攻略、视频等内容。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -1694,8 +1629,7 @@
     "logo": "https://img.ignchina.com/ign-logo.png",
     "description": "国际知名游戏媒体IGN中国站，提供游戏评测、新闻、视频。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏评测",
@@ -1801,8 +1735,7 @@
     "logo": "https://www.2144.cn/images/logo2144.png",
     "description": "页游小游戏平台，有一定用户基础，专注休闲游戏。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "小游戏",
@@ -1828,8 +1761,7 @@
     "logo": "",
     "description": "小米官方应用商店，MIUI游戏分发核心渠道。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "手游",
@@ -1855,8 +1787,7 @@
     "logo": "",
     "description": "华为官方应用商店，游戏品类丰富，海外市场增长迅速。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "手游",
@@ -1864,7 +1795,7 @@
       "海外"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "50000+",
     "highlights": [
@@ -1882,8 +1813,7 @@
     "logo": "",
     "description": "PlayStation官方游戏商店，购买PS4/PS5游戏和DLC。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "PlayStation",
@@ -1909,8 +1839,7 @@
     "logo": "",
     "description": "Xbox官方游戏商店，购买Xbox游戏和订阅服务。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Xbox",
@@ -1936,8 +1865,7 @@
     "logo": "",
     "description": "Switch官方数字商店，购买Switch游戏和DLC。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -1963,8 +1891,7 @@
     "logo": "",
     "description": "Humble月度订阅服务，每月可选择多款游戏。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "订阅",
@@ -1990,8 +1917,7 @@
     "logo": "",
     "description": "EA旧版游戏启动器，现已整合为EA app。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "EA游戏",
@@ -2017,8 +1943,7 @@
     "logo": "",
     "description": "微软Windows应用商店，部分PC游戏在此发售。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "Windows",
@@ -2044,8 +1969,7 @@
     "logo": "",
     "description": "游戏平台，包含独立游戏和独特内容。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -2070,8 +1994,7 @@
     "logo": "",
     "description": "全球最大独立游戏平台，以创意和独特游戏著称。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -2098,8 +2021,7 @@
     "logo": "",
     "description": "独立游戏发行商，专注视觉小说。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -2125,8 +2047,7 @@
     "logo": "",
     "description": "日本游戏/软件分发平台，专注同人游戏和视觉小说。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "同人游戏",
@@ -2152,8 +2073,7 @@
     "logo": "",
     "description": "日本游戏平台，提供页游和PC游戏。",
     "category": [
-      "页游",
-      "国际"
+      "页游"
     ],
     "tags": [
       "日本游戏",
@@ -2161,8 +2081,7 @@
       "PC游戏"
     ],
     "region": [
-      "日本",
-      "全球"
+      "日本"
     ],
     "game_count": "1000+",
     "highlights": [
@@ -2180,8 +2099,7 @@
     "logo": "",
     "description": "日本游戏软件连锁店在线平台。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本游戏",
@@ -2207,8 +2125,7 @@
     "logo": "",
     "description": "亚洲游戏电商，销售亚洲版本游戏和周边。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "亚洲游戏",
@@ -2234,8 +2151,7 @@
     "logo": "",
     "description": "游戏进口电商，专营海外游戏。",
     "category": [
-      "主机",
-      "国内"
+      "主机"
     ],
     "tags": [
       "游戏进口",
@@ -2261,8 +2177,7 @@
     "logo": "",
     "description": "游戏平台，包含各类独立游戏。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -2287,8 +2202,7 @@
     "logo": "",
     "description": "腾讯WeGame手机客户端，随时发现游戏。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "腾讯",
@@ -2314,8 +2228,7 @@
     "logo": "",
     "description": "独立游戏开发商，专注像素风格游戏。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -2341,8 +2254,7 @@
     "logo": "",
     "description": "国内游戏平台，提供游戏资讯和下载。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "手游",
@@ -2368,8 +2280,7 @@
     "logo": "",
     "description": "游戏平台，提供游戏资讯和社区功能。",
     "category": [
-      "客户端",
-      "国内"
+      "客户端"
     ],
     "tags": [
       "游戏平台",
@@ -2395,9 +2306,7 @@
     "logo": "",
     "description": "PPTV旗下游戏平台，提供游戏视频和直播。",
     "category": [
-      "直播",
-      "视频",
-      "国内"
+      "直播"
     ],
     "tags": [
       "游戏视频",
@@ -2423,8 +2332,7 @@
     "logo": "",
     "description": "新浪网游戏频道，提供游戏新闻和资讯。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -2450,8 +2358,7 @@
     "logo": "",
     "description": "腾讯QQ游戏大厅，包含众多休闲小游戏。",
     "category": [
-      "客户端",
-      "国内"
+      "客户端"
     ],
     "tags": [
       "休闲游戏",
@@ -2477,8 +2384,7 @@
     "logo": "",
     "description": "游戏平台，提供游戏下载和资讯。",
     "category": [
-      "客户端",
-      "国内"
+      "客户端"
     ],
     "tags": [
       "游戏平台",
@@ -2503,8 +2409,7 @@
     "logo": "",
     "description": "网页游戏平台，专注大型页游。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "页游",
@@ -2530,8 +2435,7 @@
     "logo": "",
     "description": "游戏社区平台，提供游戏和社交功能。",
     "category": [
-      "社区",
-      "国内"
+      "社区"
     ],
     "tags": [
       "游戏社区",
@@ -2557,8 +2461,7 @@
     "logo": "",
     "description": "360旗下游戏平台，提供游戏下载。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "360",
@@ -2584,8 +2487,7 @@
     "logo": "",
     "description": "百度旗下游戏平台，整合游戏资源。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "百度",
@@ -2611,8 +2513,7 @@
     "logo": "",
     "description": "搜狗旗下游戏平台，提供游戏入口。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "搜狗",
@@ -2638,9 +2539,7 @@
     "logo": "",
     "description": "hao123游戏导航，聚合各类游戏入口。",
     "category": [
-      "页游",
-      "导航",
-      "国内"
+      "页游"
     ],
     "tags": [
       "游戏导航",
@@ -2666,8 +2565,7 @@
     "logo": "",
     "description": "游戏平台，专注休闲游戏和手游。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "休闲游戏",
@@ -2692,8 +2590,7 @@
     "logo": "",
     "description": "国内领先的游戏直播平台，涵盖各类游戏内容，提供蓝光画质直播，电竞战队入驻。",
     "category": [
-      "直播",
-      "国内"
+      "直播"
     ],
     "tags": [
       "游戏直播",
@@ -2722,8 +2619,7 @@
     "logo": "",
     "description": "游戏直播平台，后转型秀场直播。",
     "category": [
-      "直播",
-      "国内"
+      "直播"
     ],
     "tags": [
       "游戏直播",
@@ -2749,8 +2645,7 @@
     "logo": "",
     "description": "微软游戏订阅服务。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "订阅",
@@ -2775,8 +2670,7 @@
     "logo": "",
     "description": "苹果游戏订阅服务。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "订阅",
@@ -2826,8 +2720,7 @@
     "logo": "",
     "description": "全球知名PC游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "PC游戏",
@@ -2852,8 +2745,7 @@
     "logo": "",
     "description": "全球最大游戏媒体之一。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏评测",
@@ -2878,8 +2770,7 @@
     "logo": "",
     "description": "老牌游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏评测",
@@ -2904,8 +2795,7 @@
     "logo": "",
     "description": "知名游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏文化",
@@ -2929,8 +2819,7 @@
     "logo": "",
     "description": "知名游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -2954,8 +2843,7 @@
     "logo": "",
     "description": "欧洲知名游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -2980,8 +2868,7 @@
     "logo": "",
     "description": "Steam游戏价格历史查询。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "Steam",
@@ -3007,8 +2894,7 @@
     "logo": "",
     "description": "全球最大游戏攻略社区。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "游戏攻略",
@@ -3032,8 +2918,7 @@
     "logo": "",
     "description": "知名游戏论坛社区。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "游戏论坛",
@@ -3057,8 +2942,7 @@
     "logo": "",
     "description": "全球知名游戏Key marketplace。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -3082,8 +2966,7 @@
     "logo": "",
     "description": "游戏Key销售平台。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -3107,8 +2990,7 @@
     "logo": "",
     "description": "游戏Key零售商。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -3133,8 +3015,7 @@
     "logo": "",
     "description": "游戏加速器和社交平台。",
     "category": [
-      "加速器",
-      "国际"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -3158,8 +3039,7 @@
     "logo": "",
     "description": "韩国知名直播平台。",
     "category": [
-      "直播",
-      "国际"
+      "直播"
     ],
     "tags": [
       "游戏直播",
@@ -3183,8 +3063,7 @@
     "logo": "",
     "description": "DOTA2饰品交易平台。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "Dota2",
@@ -3208,8 +3087,7 @@
     "logo": "",
     "description": "手游交易平台。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "手游",
@@ -3234,8 +3112,7 @@
     "logo": "",
     "description": "国内知名游戏交易平台。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "游戏交易",
@@ -3259,8 +3136,7 @@
     "logo": "",
     "description": "日本游戏软件平台。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本游戏",
@@ -3284,8 +3160,7 @@
     "logo": "",
     "description": "英国游戏数字零售商。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -3310,8 +3185,7 @@
     "logo": "",
     "description": "互联网档案馆。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "怀旧游戏",
@@ -3335,8 +3209,7 @@
     "logo": "",
     "description": "复古游戏下载平台。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "复古游戏",
@@ -3360,8 +3233,7 @@
     "logo": "",
     "description": "复古游戏ROM下载。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "ROM下载",
@@ -3385,8 +3257,7 @@
     "logo": "",
     "description": "ROM下载网站。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "ROM下载",
@@ -3410,8 +3281,7 @@
     "logo": "",
     "description": "经典复古游戏资源站。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "复古游戏",
@@ -3435,8 +3305,7 @@
     "logo": "",
     "description": "2D游戏开发引擎。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏开发",
@@ -3460,8 +3329,7 @@
     "logo": "",
     "description": "开源2D游戏引擎。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏开发",
@@ -3486,8 +3354,7 @@
     "logo": "",
     "description": "可视化2D游戏开发工具。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏开发",
@@ -3511,8 +3378,7 @@
     "logo": "",
     "description": "2D游戏开发工具，无需编程。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏开发",
@@ -3536,8 +3402,7 @@
     "logo": "",
     "description": "视觉小说开发引擎。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "视觉小说",
@@ -3561,8 +3426,7 @@
     "logo": "",
     "description": "互动小说开发工具。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "互动小说",
@@ -3586,8 +3450,7 @@
     "logo": "",
     "description": "Valve便携式游戏电脑。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "掌机",
@@ -3612,8 +3475,7 @@
     "logo": "",
     "description": "任天堂Switch游戏机。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "Switch",
@@ -3637,8 +3499,7 @@
     "logo": "",
     "description": "索尼PlayStation 5游戏机。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "PS5",
@@ -3662,8 +3523,7 @@
     "logo": "",
     "description": "微软Xbox Series X游戏机。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "Xbox",
@@ -3687,8 +3547,7 @@
     "logo": "",
     "description": "万代南梦宫游戏。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本游戏",
@@ -3712,8 +3571,7 @@
     "logo": "",
     "description": "世嘉游戏官方平台。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本游戏",
@@ -3737,8 +3595,7 @@
     "logo": "",
     "description": "卡普空游戏官方平台。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本游戏",
@@ -3763,8 +3620,7 @@
     "logo": "",
     "description": "科乐美游戏官方平台。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本游戏",
@@ -3788,8 +3644,7 @@
     "logo": "",
     "description": "SE游戏官方平台。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本游戏",
@@ -3813,8 +3668,7 @@
     "logo": "",
     "description": "网页游戏平台。",
     "category": [
-      "页游",
-      "国际"
+      "页游"
     ],
     "tags": [
       "网页游戏",
@@ -3838,8 +3692,7 @@
     "logo": "",
     "description": "网页游戏集合。",
     "category": [
-      "页游",
-      "国际"
+      "页游"
     ],
     "tags": [
       "网页游戏",
@@ -3863,8 +3716,7 @@
     "logo": "",
     "description": "网页游戏平台。",
     "category": [
-      "页游",
-      "国际"
+      "页游"
     ],
     "tags": [
       "网页游戏",
@@ -3888,8 +3740,7 @@
     "logo": "",
     "description": "Valve经典射击游戏。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "射击",
@@ -3915,8 +3766,7 @@
     "logo": "",
     "description": " Valve经典MOBA游戏。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "MOBA",
@@ -3942,8 +3792,7 @@
     "logo": "",
     "description": "Hacker News游戏板块。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "游戏社区",
@@ -3968,8 +3817,7 @@
     "logo": "",
     "description": "游戏社区平台。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "游戏社区"
@@ -3992,8 +3840,7 @@
     "logo": "",
     "description": "游戏讨论社区。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "游戏讨论",
@@ -4017,8 +3864,7 @@
     "logo": "",
     "description": "软件和游戏下载站。",
     "category": [
-      "下载",
-      "国际"
+      "其他"
     ],
     "tags": [
       "游戏下载",
@@ -4042,8 +3888,7 @@
     "logo": "",
     "description": "软件和游戏下载站。",
     "category": [
-      "下载",
-      "国际"
+      "其他"
     ],
     "tags": [
       "游戏下载",
@@ -4067,8 +3912,7 @@
     "logo": "",
     "description": "老游戏下载站。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "老游戏下载",
@@ -4092,8 +3936,7 @@
     "logo": "",
     "description": "游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -4117,8 +3960,7 @@
     "logo": "",
     "description": "游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -4142,8 +3984,7 @@
     "logo": "",
     "description": "游戏新闻和社区。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -4167,8 +4008,7 @@
     "logo": "",
     "description": "独立游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "独立游戏",
@@ -4192,8 +4032,7 @@
     "logo": "",
     "description": "英国游戏和娱乐产品零售商。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -4217,8 +4056,7 @@
     "logo": "",
     "description": "英国游戏数字零售商。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -4242,8 +4080,7 @@
     "logo": "",
     "description": "游戏数字零售商。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏Key",
@@ -4267,8 +4104,7 @@
     "logo": "",
     "description": "游戏价格比较。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "价格比较",
@@ -4292,8 +4128,7 @@
     "logo": "",
     "description": "手柄映射工具。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "手柄",
@@ -4317,8 +4152,7 @@
     "logo": "",
     "description": "手柄映射工具。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "手柄",
@@ -4342,8 +4176,7 @@
     "logo": "",
     "description": "打字练习工具。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "打字",
@@ -4367,8 +4200,7 @@
     "logo": "",
     "description": "复古游戏资源。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "复古游戏",
@@ -4392,8 +4224,7 @@
     "logo": "",
     "description": "模拟器博物馆。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "模拟器",
@@ -4489,8 +4320,7 @@
     "logo": "",
     "description": "Squeak编程环境。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "编程",
@@ -4514,8 +4344,7 @@
     "logo": "",
     "description": "游戏发布和社区平台。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -4539,8 +4368,7 @@
     "logo": "",
     "description": "独立游戏平台桌面客户端。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -4564,8 +4392,7 @@
     "logo": "",
     "description": "游戏商城桌面客户端。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "游戏商城",
@@ -4589,8 +4416,7 @@
     "logo": "",
     "description": "MOBA游戏类型。",
     "category": [
-      "类型",
-      "国际"
+      "其他"
     ],
     "tags": [
       "MOBA",
@@ -4614,8 +4440,7 @@
     "logo": "",
     "description": "大型多人在线角色扮演游戏。",
     "category": [
-      "类型",
-      "国际"
+      "其他"
     ],
     "tags": [
       "MMORPG",
@@ -4639,8 +4464,7 @@
     "logo": "",
     "description": "Roguelike游戏类型。",
     "category": [
-      "类型",
-      "国际"
+      "其他"
     ],
     "tags": [
       "Roguelike",
@@ -4664,8 +4488,7 @@
     "logo": "",
     "description": "视觉小说/美少女游戏。",
     "category": [
-      "类型",
-      "国际"
+      "其他"
     ],
     "tags": [
       "视觉小说",
@@ -4689,8 +4512,7 @@
     "logo": "",
     "description": "街机游戏平台。",
     "category": [
-      "街机",
-      "国际"
+      "其他"
     ],
     "tags": [
       "街机",
@@ -4786,8 +4608,7 @@
     "logo": "",
     "description": "2D游戏开发引擎。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏开发",
@@ -4811,8 +4632,7 @@
     "logo": "",
     "description": "HTML5游戏框架。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "HTML5",
@@ -4836,8 +4656,7 @@
     "logo": "",
     "description": "2D WebGL渲染引擎。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "WebGL",
@@ -4861,8 +4680,7 @@
     "logo": "",
     "description": "3D游戏引擎。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "3D",
@@ -4886,8 +4704,7 @@
     "logo": "",
     "description": "JavaScript 3D库。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "JavaScript",
@@ -4911,8 +4728,7 @@
     "logo": "",
     "description": "游戏新闻网站。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏新闻"
@@ -4935,8 +4751,7 @@
     "logo": "",
     "description": "游戏评论和新闻。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏评论"
@@ -4959,8 +4774,7 @@
     "logo": "",
     "description": "独立游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "独立游戏"
@@ -4983,8 +4797,7 @@
     "logo": "",
     "description": "游戏评分聚合网站。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏评分",
@@ -5008,8 +4821,7 @@
     "logo": "",
     "description": "综合评分网站。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏评分",
@@ -5033,8 +4845,7 @@
     "logo": "",
     "description": "游戏评分网站。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏评分"
@@ -5057,8 +4868,7 @@
     "logo": "",
     "description": "游戏社交平台（已关闭）。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "游戏社交"
@@ -5081,8 +4891,7 @@
     "logo": "",
     "description": "屏幕录制和帧率显示工具。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "屏幕录制",
@@ -5107,8 +4916,7 @@
     "logo": "",
     "description": "屏幕录制软件。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "屏幕录制",
@@ -5132,8 +4940,7 @@
     "logo": "",
     "description": "免费开源直播录制软件。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "直播",
@@ -5158,8 +4965,7 @@
     "logo": "",
     "description": "直播工具。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "直播",
@@ -5183,8 +4989,7 @@
     "logo": "",
     "description": "游戏播客和新闻。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏播客",
@@ -5208,8 +5013,7 @@
     "logo": "",
     "description": "游戏新闻和下载。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏新闻"
@@ -5232,8 +5036,7 @@
     "logo": "",
     "description": "老牌游戏媒体（已关闭）。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏媒体"
@@ -5256,8 +5059,7 @@
     "logo": "",
     "description": "游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -5281,8 +5083,7 @@
     "logo": "",
     "description": "游戏策略百科。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "游戏攻略",
@@ -5306,8 +5107,7 @@
     "logo": "",
     "description": "游戏数据库。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏数据库",
@@ -5331,8 +5131,7 @@
     "logo": "",
     "description": "音乐游戏资源。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "音乐游戏",
@@ -5380,8 +5179,7 @@
     "logo": "",
     "description": "跳舞游戏。",
     "category": [
-      "类型",
-      "国际"
+      "其他"
     ],
     "tags": [
       "跳舞游戏",
@@ -5405,8 +5203,7 @@
     "logo": "",
     "description": "日本独立游戏发行。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -5431,8 +5228,7 @@
     "logo": "",
     "description": "独立游戏平台。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "独立游戏"
@@ -5455,8 +5251,7 @@
     "logo": "",
     "description": "网页桌游平台。",
     "category": [
-      "页游",
-      "国际"
+      "页游"
     ],
     "tags": [
       "桌游",
@@ -5480,8 +5275,7 @@
     "logo": "",
     "description": "Steam游戏价格计算器。",
     "category": [
-      "工具",
-      "国际"
+      "其他"
     ],
     "tags": [
       "Steam",
@@ -5505,8 +5299,7 @@
     "logo": "",
     "description": "Steam游戏新闻。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "Steam",
@@ -5530,8 +5323,7 @@
     "logo": "",
     "description": "华为官方应用商店，海外市场重要。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "华为",
@@ -5539,7 +5331,6 @@
       "HMS"
     ],
     "region": [
-      "全球",
       "中国大陆"
     ],
     "game_count": "50000+",
@@ -5557,8 +5348,7 @@
     "logo": "",
     "description": "阿里系游戏平台。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "阿里",
@@ -5582,8 +5372,7 @@
     "logo": "",
     "description": "字节跳动游戏平台。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "字节跳动",
@@ -5607,8 +5396,7 @@
     "logo": "",
     "description": "原神、崩坏系列开发商官方平台。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "米哈游",
@@ -5616,7 +5404,7 @@
       "崩坏"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "10+",
     "highlights": [
@@ -5634,15 +5422,14 @@
     "logo": "",
     "description": "明日方舟开发商。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "鹰角",
       "明日方舟"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "5+",
     "highlights": [
@@ -5660,15 +5447,14 @@
     "logo": "",
     "description": "完美世界游戏官方平台。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "完美世界",
       "游戏"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "100+",
     "highlights": [
@@ -5685,15 +5471,14 @@
     "logo": "",
     "description": "盛趣游戏官方平台（前盛大游戏）。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "盛趣",
       "游戏"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "100+",
     "highlights": [
@@ -5710,8 +5495,7 @@
     "logo": "",
     "description": "剑网3等游戏开发商。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "西山居",
@@ -5735,15 +5519,14 @@
     "logo": "",
     "description": "蜗牛游戏官方平台。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "蜗牛",
       "游戏"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "50+",
     "highlights": [
@@ -5760,8 +5543,7 @@
     "logo": "",
     "description": "完美世界游戏平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "完美世界",
@@ -5785,8 +5567,7 @@
     "logo": "",
     "description": "大型页游平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "页游",
@@ -5810,8 +5591,7 @@
     "logo": "",
     "description": "贪玩游戏平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "页游",
@@ -5835,8 +5615,7 @@
     "logo": "",
     "description": "页游平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "页游"
@@ -5859,8 +5638,7 @@
     "logo": "",
     "description": "8090页游平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "页游"
@@ -5883,8 +5661,7 @@
     "logo": "",
     "description": "91Y游戏平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "页游",
@@ -5908,8 +5685,7 @@
     "logo": "",
     "description": "456游戏平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "页游"
@@ -5932,8 +5708,7 @@
     "logo": "",
     "description": "976游戏平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "页游"
@@ -5956,8 +5731,7 @@
     "logo": "",
     "description": "搜狗游戏平台。",
     "category": [
-      "页游",
-      "国内"
+      "页游"
     ],
     "tags": [
       "搜狗",
@@ -5981,9 +5755,7 @@
     "logo": "",
     "description": "hao123游戏导航。",
     "category": [
-      "页游",
-      "导航",
-      "国内"
+      "页游"
     ],
     "tags": [
       "导航",
@@ -6007,8 +5779,7 @@
     "logo": "",
     "description": "任天堂Switch在线会员服务。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -6034,8 +5805,7 @@
     "logo": "",
     "description": "日本Switch eShop。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -6060,8 +5830,7 @@
     "logo": "",
     "description": "日本PlayStation商店。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "PlayStation",
@@ -6085,8 +5854,7 @@
     "logo": "",
     "description": "微软日本官网。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Xbox",
@@ -6111,8 +5879,7 @@
     "logo": "",
     "description": "日本电商游戏销售。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本",
@@ -6138,8 +5905,7 @@
     "logo": "",
     "description": "日本电器店游戏销售。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本",
@@ -6163,8 +5929,7 @@
     "logo": "",
     "description": "日本游戏租赁平台。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "日本",
@@ -6188,8 +5953,7 @@
     "logo": "",
     "description": "日本游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "日本",
@@ -6213,8 +5977,7 @@
     "logo": "",
     "description": "日本游戏媒体电击。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "日本",
@@ -6238,8 +6001,7 @@
     "logo": "",
     "description": "日本老牌游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "日本",
@@ -6264,8 +6026,7 @@
     "logo": "",
     "description": "日本游戏数据库。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "日本",
@@ -6289,8 +6050,7 @@
     "logo": "",
     "description": "日本游戏攻略网站。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "日本",
@@ -6314,8 +6074,7 @@
     "logo": "",
     "description": "日本游戏商业媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "日本",
@@ -6339,8 +6098,7 @@
     "logo": "",
     "description": "日本游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "日本",
@@ -6364,8 +6122,7 @@
     "logo": "",
     "description": "日本游戏攻略网站。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "日本",
@@ -6389,8 +6146,7 @@
     "logo": "",
     "description": "韩国任天堂官网。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -6415,8 +6171,7 @@
     "logo": "",
     "description": "韩国PlayStation商店。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "PlayStation",
@@ -6440,8 +6195,7 @@
     "logo": "",
     "description": "微软韩国官网。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Xbox",
@@ -6465,8 +6219,7 @@
     "logo": "",
     "description": "Steam韩国商店。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "Steam",
@@ -6490,8 +6243,7 @@
     "logo": "",
     "description": "韩国Naver游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "韩国",
@@ -6516,8 +6268,7 @@
     "logo": "",
     "description": "韩国Kakao游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "韩国",
@@ -6542,8 +6293,7 @@
     "logo": "",
     "description": "韩国应用商店。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "韩国",
@@ -6567,8 +6317,7 @@
     "logo": "",
     "description": "韩国直播平台。",
     "category": [
-      "直播",
-      "国际"
+      "直播"
     ],
     "tags": [
       "韩国",
@@ -6593,8 +6342,7 @@
     "logo": "",
     "description": "韩国最大游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "韩国",
@@ -6618,8 +6366,7 @@
     "logo": "",
     "description": "韩国游戏社区。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "韩国",
@@ -6643,8 +6390,7 @@
     "logo": "",
     "description": "韩国游戏论坛。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "韩国",
@@ -6668,16 +6414,14 @@
     "logo": "",
     "description": "台湾最大游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "台湾",
       "游戏媒体"
     ],
     "region": [
-      "台湾",
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "内容媒体",
     "highlights": [
@@ -6694,8 +6438,7 @@
     "logo": "",
     "description": "Steam繁体中文商店。",
     "category": [
-      "客户端",
-      "国内"
+      "客户端"
     ],
     "tags": [
       "Steam",
@@ -6703,8 +6446,7 @@
       "港澳台"
     ],
     "region": [
-      "台湾",
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "50000+",
     "highlights": [
@@ -6721,8 +6463,7 @@
     "logo": "",
     "description": "台湾游戏点数平台。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "台湾",
@@ -6730,7 +6471,7 @@
       "储值"
     ],
     "region": [
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "平台",
     "highlights": [
@@ -6747,15 +6488,14 @@
     "logo": "",
     "description": "台湾游戏点数服务。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "台湾",
       "点数"
     ],
     "region": [
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "平台",
     "highlights": [
@@ -6772,15 +6512,14 @@
     "logo": "",
     "description": "台湾联合报游戏频道。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "台湾",
       "游戏媒体"
     ],
     "region": [
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "内容媒体",
     "highlights": [
@@ -6797,15 +6536,14 @@
     "logo": "",
     "description": "台湾电脑游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "台湾",
       "游戏媒体"
     ],
     "region": [
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "内容媒体",
     "highlights": [
@@ -6822,15 +6560,14 @@
     "logo": "",
     "description": "台湾游戏下载网站。",
     "category": [
-      "下载",
-      "国内"
+      "其他"
     ],
     "tags": [
       "台湾",
       "游戏下载"
     ],
     "region": [
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "10000+",
     "highlights": [
@@ -6847,16 +6584,14 @@
     "logo": "",
     "description": "香港游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "香港",
       "游戏媒体"
     ],
     "region": [
-      "香港",
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "内容媒体",
     "highlights": [
@@ -6873,15 +6608,14 @@
     "logo": "",
     "description": "香港游戏论坛。",
     "category": [
-      "社区",
-      "国内"
+      "社区"
     ],
     "tags": [
       "香港",
       "论坛"
     ],
     "region": [
-      "港澳台"
+      "中国大陆"
     ],
     "game_count": "社区用户",
     "highlights": [
@@ -6898,8 +6632,7 @@
     "logo": "",
     "description": "亚马逊游戏平台。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "亚马逊",
@@ -6923,8 +6656,7 @@
     "logo": "",
     "description": "Humble电子书订阅。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "电子书",
@@ -6948,8 +6680,7 @@
     "logo": "",
     "description": "亚马逊Prime游戏福利。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "亚马逊",
@@ -6974,8 +6705,7 @@
     "logo": "",
     "description": "NVIDIA云游戏服务。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -6999,8 +6729,7 @@
     "logo": "",
     "description": "Google云游戏平台（已关闭）。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -7024,8 +6753,7 @@
     "logo": "",
     "description": "索尼云游戏服务。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -7049,8 +6777,7 @@
     "logo": "",
     "description": "云电脑服务，可玩游戏。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -7074,8 +6801,7 @@
     "logo": "",
     "description": "亚马逊云游戏服务。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -7099,8 +6825,7 @@
     "logo": "",
     "description": "微软Xbox云游戏服务。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -7125,8 +6850,7 @@
     "logo": "",
     "description": "索尼PS订阅服务。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "PlayStation",
@@ -7151,8 +6875,7 @@
     "logo": "",
     "description": "澳洲任天堂官网。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -7176,8 +6899,7 @@
     "logo": "",
     "description": "Steam欧洲商店。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "Steam",
@@ -7201,8 +6923,7 @@
     "logo": "",
     "description": "欧洲PlayStation商店。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "PlayStation",
@@ -7226,8 +6947,7 @@
     "logo": "",
     "description": "欧洲任天堂官网。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -7251,8 +6971,7 @@
     "logo": "",
     "description": "微软英国官网。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Xbox",
@@ -7276,8 +6995,7 @@
     "logo": "",
     "description": "德国游戏零售商。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "德国",
@@ -7301,8 +7019,7 @@
     "logo": "",
     "description": "德国电商游戏销售。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "德国",
@@ -7326,8 +7043,7 @@
     "logo": "",
     "description": "德国游戏下载平台。",
     "category": [
-      "下载",
-      "国际"
+      "其他"
     ],
     "tags": [
       "德国",
@@ -7351,8 +7067,7 @@
     "logo": "",
     "description": "Eurogamer德语站。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "德国",
@@ -7376,8 +7091,7 @@
     "logo": "",
     "description": "德国最大游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "德国",
@@ -7401,8 +7115,7 @@
     "logo": "",
     "description": "意大利游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "意大利",
@@ -7426,8 +7139,7 @@
     "logo": "",
     "description": "法国最大游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "法国",
@@ -7451,8 +7163,7 @@
     "logo": "",
     "description": "法国游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "法国",
@@ -7476,8 +7187,7 @@
     "logo": "",
     "description": "法国游戏科技媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "法国",
@@ -7501,8 +7211,7 @@
     "logo": "",
     "description": "俄罗斯VK社交游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "俄罗斯",
@@ -7527,8 +7236,7 @@
     "logo": "",
     "description": "俄罗斯云游戏平台。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "俄罗斯",
@@ -7552,8 +7260,7 @@
     "logo": "",
     "description": "俄罗斯软件游戏商店。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "俄罗斯",
@@ -7577,8 +7284,7 @@
     "logo": "",
     "description": "俄罗斯游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "俄罗斯",
@@ -7602,8 +7308,7 @@
     "logo": "",
     "description": "俄罗斯游戏社区。",
     "category": [
-      "社区",
-      "国际"
+      "社区"
     ],
     "tags": [
       "俄罗斯",
@@ -7627,8 +7332,7 @@
     "logo": "",
     "description": "东南亚游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "东南亚",
@@ -7652,8 +7356,7 @@
     "logo": "",
     "description": "LINE游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "日本",
@@ -7661,8 +7364,8 @@
       "游戏"
     ],
     "region": [
-      "东南亚",
-      "日本"
+      "日本",
+      "东南亚"
     ],
     "game_count": "1000+",
     "highlights": [
@@ -7679,8 +7382,7 @@
     "logo": "",
     "description": "印尼苹果应用商店。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "iOS",
@@ -7705,8 +7407,7 @@
     "logo": "",
     "description": "印尼谷歌Play商店。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "Android",
@@ -7730,16 +7431,14 @@
     "logo": "",
     "description": "Steam亚洲商店。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "Steam",
       "亚洲"
     ],
     "region": [
-      "东南亚",
-      "亚洲"
+      "东南亚"
     ],
     "game_count": "50000+",
     "highlights": [
@@ -7756,8 +7455,7 @@
     "logo": "",
     "description": "新加坡游戏发展协会。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "新加坡",
@@ -7781,8 +7479,7 @@
     "logo": "",
     "description": "越南游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "越南",
@@ -7806,8 +7503,7 @@
     "logo": "",
     "description": "泰国游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "泰国",
@@ -7831,8 +7527,7 @@
     "logo": "",
     "description": "印度Jio游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "印度",
@@ -7856,8 +7551,7 @@
     "logo": "",
     "description": "NVIDIA印度GeForce NOW。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "印度",
@@ -7881,8 +7575,7 @@
     "logo": "",
     "description": "印度游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "印度",
@@ -7906,8 +7599,7 @@
     "logo": "",
     "description": "中东游戏交易平台。",
     "category": [
-      "交易",
-      "国际"
+      "交易"
     ],
     "tags": [
       "中东",
@@ -7931,8 +7623,7 @@
     "logo": "",
     "description": "中东游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "中东",
@@ -7956,8 +7647,7 @@
     "logo": "",
     "description": "Steam拉丁美洲商店。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "Steam",
@@ -7981,8 +7671,7 @@
     "logo": "",
     "description": "巴西PlayStation商店。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "PlayStation",
@@ -8006,8 +7695,7 @@
     "logo": "",
     "description": "巴西任天堂官网。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -8031,8 +7719,7 @@
     "logo": "",
     "description": "巴西UOL游戏媒体。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "巴西",
@@ -8056,8 +7743,7 @@
     "logo": "",
     "description": "巴西Terra游戏频道。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "巴西",
@@ -8081,8 +7767,7 @@
     "logo": "",
     "description": "巴西支付平台游戏。",
     "category": [
-      "交易",
-      "国际"
+      "交易"
     ],
     "tags": [
       "巴西",
@@ -8106,8 +7791,7 @@
     "logo": "",
     "description": "埃及游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "埃及",
@@ -8132,8 +7816,7 @@
     "logo": "",
     "description": "南非游戏平台。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "南非",
@@ -8157,8 +7840,7 @@
     "logo": "",
     "description": "非洲谷歌Play商店。",
     "category": [
-      "手游",
-      "国际"
+      "手游"
     ],
     "tags": [
       "Android",
@@ -8182,8 +7864,7 @@
     "logo": "",
     "description": "微软Xbox云游戏服务，通过浏览器或App随时随地游玩Xbox游戏。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -8210,8 +7891,7 @@
     "logo": "",
     "description": "NVIDIA云游戏服务，畅玩Steam、Epic等平台的游戏。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -8238,8 +7918,7 @@
     "logo": "",
     "description": "亚马逊云游戏平台，支持多设备浏览器游玩。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -8247,7 +7926,7 @@
       "AWS"
     ],
     "region": [
-      "美国"
+      "北美"
     ],
     "game_count": "100+",
     "highlights": [
@@ -8265,8 +7944,7 @@
     "logo": "",
     "description": "欧洲云游戏平台，支持Steam、Epic等游戏库。",
     "category": [
-      "云游戏",
-      "国际"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -8292,8 +7970,7 @@
     "logo": "",
     "description": "腾讯START云游戏，电视、电脑、手机多端畅玩。",
     "category": [
-      "云游戏",
-      "国内"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -8319,8 +7996,7 @@
     "logo": "",
     "description": "Valve出品便携式PC游戏掌机，可玩Steam游戏库。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "掌机",
@@ -8346,8 +8022,7 @@
     "logo": "",
     "description": "华硕ROG Ally Windows掌机，AMD处理器，性能强劲。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "掌机",
@@ -8373,8 +8048,7 @@
     "logo": "",
     "description": "国产Windows/Android掌机品牌，型号丰富。",
     "category": [
-      "硬件",
-      "国内"
+      "硬件"
     ],
     "tags": [
       "掌机",
@@ -8382,7 +8056,7 @@
       "Windows"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "10000+",
     "highlights": [
@@ -8400,8 +8074,7 @@
     "logo": "",
     "description": "罗技游戏外设品牌，覆盖键盘、鼠标、耳机等。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "外设",
@@ -8427,8 +8100,7 @@
     "logo": "",
     "description": "全球领先的游戏设备品牌，以鼠标、键盘、耳机著称。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "外设",
@@ -8454,8 +8126,7 @@
     "logo": "",
     "description": "海盗船游戏外设和PC组件品牌。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "外设",
@@ -8481,8 +8152,7 @@
     "logo": "",
     "description": "HP旗下游戏外设品牌，以耳机和内存著称。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "外设",
@@ -8508,8 +8178,7 @@
     "logo": "",
     "description": "丹麦游戏外设品牌，产品涵盖鼠标、键盘、耳机。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "外设",
@@ -8535,8 +8204,7 @@
     "logo": "",
     "description": "Valve出品的PC VR头显，以高刷新率和手势追踪著称。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "VR",
@@ -8562,8 +8230,7 @@
     "logo": "",
     "description": "Meta（原Oculus）VR头显，销量最高的VR设备系列。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "VR",
@@ -8589,8 +8256,7 @@
     "logo": "",
     "description": "HTC Vive系列PC VR头显，专业级VR设备。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "VR",
@@ -8616,8 +8282,7 @@
     "logo": "",
     "description": "索尼PS5专用VR头显，4K HDR OLED屏。",
     "category": [
-      "硬件",
-      "国际"
+      "硬件"
     ],
     "tags": [
       "VR",
@@ -8643,8 +8308,7 @@
     "logo": "",
     "description": "免费开源2D/3D游戏引擎，MIT许可证，社区活跃。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -8670,8 +8334,7 @@
     "logo": "",
     "description": "YoYo Games出品的2D游戏引擎，适合独立游戏开发。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -8697,8 +8360,7 @@
     "logo": "",
     "description": "Google旗下轻量级2D游戏引擎，Lua脚本，免费使用。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -8724,8 +8386,7 @@
     "logo": "",
     "description": "免费开源2D游戏引擎（原Corona SDK），Lua脚本。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -8751,8 +8412,7 @@
     "logo": "",
     "description": "基于WebGL的3D游戏引擎，浏览器内编辑和发布。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -8778,8 +8438,7 @@
     "logo": "",
     "description": "Flutter开源2D游戏引擎，Dart语言。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -8805,8 +8464,7 @@
     "logo": "",
     "description": "Rust语言编写的开源简单数据驱动游戏引擎。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -8833,8 +8491,7 @@
     "logo": "",
     "description": "知名游戏新闻网站，跟踪行业动态。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏新闻",
@@ -8860,8 +8517,7 @@
     "logo": "",
     "description": "Future plc旗下游戏媒体，提供新闻、评测、攻略。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -8888,8 +8544,7 @@
     "logo": "",
     "description": "专业PC游戏媒体，专注PC游戏新闻和评测。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "PC游戏",
@@ -8916,8 +8571,7 @@
     "logo": "",
     "description": "任天堂主题游戏媒体，专注Switch和任天堂新闻。",
     "category": [
-      "媒体",
-      "国际"
+      "媒体"
     ],
     "tags": [
       "任天堂",
@@ -8943,8 +8597,7 @@
     "logo": "",
     "description": "暴雪出品《魔兽世界》主题卡牌游戏。",
     "category": [
-      "卡牌",
-      "国际"
+      "卡牌"
     ],
     "tags": [
       "卡牌游戏",
@@ -8970,8 +8623,7 @@
     "logo": "",
     "description": "Second Dinner出品的快节奏漫威卡牌游戏。",
     "category": [
-      "卡牌",
-      "国际"
+      "卡牌"
     ],
     "tags": [
       "卡牌游戏",
@@ -8997,8 +8649,7 @@
     "logo": "",
     "description": "拳头公司出品的《英雄联盟》卡牌游戏。",
     "category": [
-      "卡牌",
-      "国际"
+      "卡牌"
     ],
     "tags": [
       "卡牌游戏",
@@ -9024,8 +8675,7 @@
     "logo": "",
     "description": "在线桌游平台，无需下载，浏览器即可游玩。",
     "category": [
-      "桌游",
-      "国际"
+      "桌游"
     ],
     "tags": [
       "桌游",
@@ -9051,8 +8701,7 @@
     "logo": "",
     "description": "Steam桌上游戏专区，包含德式桌游、美式桌游等。",
     "category": [
-      "桌游",
-      "国际"
+      "桌游"
     ],
     "tags": [
       "桌游",
@@ -9078,8 +8727,7 @@
     "logo": "",
     "description": "游戏比价和优惠信息平台，提供价格追踪和通知。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "比价",
@@ -9105,8 +8753,7 @@
     "logo": "",
     "description": "Steam游戏比价网站，自动追踪各商店价格。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "Steam比价",
@@ -9131,8 +8778,7 @@
     "logo": "",
     "description": "微软旗下游戏直播平台（已停服，部分资源合并至Facebook Gaming）。",
     "category": [
-      "直播",
-      "国际"
+      "直播"
     ],
     "tags": [
       "直播",
@@ -9158,8 +8804,7 @@
     "logo": "",
     "description": "微软Xbox Series X游戏主机。",
     "category": [
-      "主机",
-      "国际"
+      "主机"
     ],
     "tags": [
       "主机",
@@ -9185,8 +8830,7 @@
     "logo": "",
     "description": "复古游戏和BBS文化资源存档。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "复古",
@@ -9212,8 +8856,7 @@
     "logo": "",
     "description": "经典PC游戏下载存档站。",
     "category": [
-      "怀旧",
-      "国际"
+      "怀旧"
     ],
     "tags": [
       "老游戏",
@@ -9239,7 +8882,6 @@
     "logo": "",
     "description": "DMM旗下网页游戏和PC游戏平台。",
     "category": [
-      "日本",
       "页游"
     ],
     "tags": [
@@ -9266,8 +8908,7 @@
     "logo": "",
     "description": "全球最大开源图书馆镜像，包含游戏、图书、漫画。",
     "category": [
-      "日本",
-      "下载"
+      "其他"
     ],
     "tags": [
       "下载",
@@ -9275,7 +8916,7 @@
       "图书馆"
     ],
     "region": [
-      "全球"
+      "日本"
     ],
     "game_count": "数字资源",
     "highlights": [
@@ -9293,8 +8934,7 @@
     "logo": "",
     "description": "日本经济新闻旗下游戏媒体。",
     "category": [
-      "日本",
-      "游戏媒体"
+      "其他"
     ],
     "tags": [
       "游戏媒体",
@@ -9320,8 +8960,7 @@
     "logo": "",
     "description": "日本专业游戏媒体，提供游戏新闻和深度报道。",
     "category": [
-      "日本",
-      "游戏媒体"
+      "其他"
     ],
     "tags": [
       "游戏媒体",
@@ -9347,8 +8986,7 @@
     "logo": "",
     "description": "韩国电影/游戏评论平台。",
     "category": [
-      "韩国",
-      "评论"
+      "其他"
     ],
     "tags": [
       "韩国",
@@ -9374,8 +9012,7 @@
     "logo": "",
     "description": "韩国游戏直播平台。",
     "category": [
-      "韩国",
-      "游戏直播"
+      "其他"
     ],
     "tags": [
       "韩国",
@@ -9400,8 +9037,7 @@
     "logo": "",
     "description": "俄罗斯游戏下载平台。",
     "category": [
-      "俄罗斯",
-      "游戏下载"
+      "其他"
     ],
     "tags": [
       "俄罗斯",
@@ -9425,8 +9061,7 @@
     "logo": "",
     "description": "游戏攻略数据库，包含众多游戏的作弊码和攻略。",
     "category": [
-      "社区",
-      "攻略"
+      "社区"
     ],
     "tags": [
       "攻略",
@@ -9452,8 +9087,7 @@
     "logo": "",
     "description": "游戏攻略网站，专注手游和主机游戏攻略。",
     "category": [
-      "社区",
-      "攻略"
+      "社区"
     ],
     "tags": [
       "攻略",
@@ -9479,8 +9113,7 @@
     "logo": "",
     "description": "游戏百科网站，包含游戏资料和攻略。",
     "category": [
-      "社区",
-      "百科"
+      "社区"
     ],
     "tags": [
       "百科",
@@ -9505,8 +9138,7 @@
     "logo": "",
     "description": "免费开源无代码2D游戏引擎，事件系统可视化编程。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -9531,11 +9163,22 @@
     "url": "https://www.monogame.net",
     "logo": "",
     "description": "开源C#游戏框架，XNA的延续，支持多平台。",
-    "category": [],
-    "tags": [],
-    "region": [],
+    "category": [
+      "开发"
+    ],
+    "tags": [
+      "游戏框架",
+      "C#",
+      "多平台"
+    ],
+    "region": [
+      "全球"
+    ],
     "game_count": "开发工具",
-    "highlights": [],
+    "highlights": [
+      "C#框架",
+      "跨平台"
+    ],
     "rating": 8.0,
     "status": "active"
   },
@@ -9547,8 +9190,7 @@
     "logo": "",
     "description": "开源3D渲染引擎，C++编写，广泛用于游戏开发。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "3D渲染",
@@ -9574,8 +9216,7 @@
     "logo": "",
     "description": "Cocos官方可视化游戏编辑器，支持2D和3D。",
     "category": [
-      "开发",
-      "国际"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -9601,8 +9242,7 @@
     "logo": "",
     "description": "欧洲游戏比价网站，追踪各地区价格差异。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "比价",
@@ -9628,8 +9268,7 @@
     "logo": "",
     "description": "游戏内购买比较网站。",
     "category": [
-      "折扣",
-      "国际"
+      "折扣"
     ],
     "tags": [
       "游戏内购",
@@ -9653,8 +9292,7 @@
     "logo": "",
     "description": "国内网吧云游戏平台。",
     "category": [
-      "云游戏",
-      "国内"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -9679,8 +9317,7 @@
     "logo": "",
     "description": "国内云游戏服务平台。",
     "category": [
-      "云游戏",
-      "国内"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -9704,8 +9341,7 @@
     "logo": "",
     "description": "国内知名游戏媒体，提供游戏新闻、攻略、评测。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -9732,8 +9368,7 @@
     "logo": "",
     "description": "国内老牌游戏媒体，提供游戏新闻、攻略、下载。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -9759,8 +9394,7 @@
     "logo": "",
     "description": "TapTap游戏发现平台。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏发现",
@@ -9786,8 +9420,7 @@
     "logo": "",
     "description": "国内手游媒体，提供手游新闻、攻略、下载。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "手游",
@@ -9812,8 +9445,7 @@
     "logo": "",
     "description": "国内游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -9837,8 +9469,7 @@
     "logo": "",
     "description": "游戏文化媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏文化",
@@ -9862,8 +9493,7 @@
     "logo": "",
     "description": "科技游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -9887,8 +9517,7 @@
     "logo": "",
     "description": "任天堂Switch网络服务订阅。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -9914,8 +9543,7 @@
     "logo": "",
     "description": "PS Plus会员订阅服务。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "PS",
@@ -9941,8 +9569,7 @@
     "logo": "",
     "description": "微软游戏订阅服务，畅玩百款游戏。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "Game Pass",
@@ -9968,8 +9595,7 @@
     "logo": "",
     "description": "Humble Bundle旗下独立游戏发行品牌。",
     "category": [
-      "客户端",
-      "发行"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -9995,8 +9621,7 @@
     "logo": "",
     "description": "知名独立游戏发行商，发行众多独立游戏佳作。",
     "category": [
-      "客户端",
-      "发行"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -10022,8 +9647,7 @@
     "logo": "",
     "description": "独立游戏发行商，以艺术类游戏著称。",
     "category": [
-      "客户端",
-      "发行"
+      "客户端"
     ],
     "tags": [
       "独立游戏",
@@ -10049,8 +9673,7 @@
     "logo": "",
     "description": "网易出品游戏加速器，支持主机和PC游戏。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -10076,8 +9699,7 @@
     "logo": "",
     "description": "腾讯官方游戏加速器。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -10101,8 +9723,7 @@
     "logo": "",
     "description": "轻量级游戏加速器。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -10126,8 +9747,7 @@
     "logo": "",
     "description": "国内游戏加速器。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -10151,8 +9771,7 @@
     "logo": "",
     "description": "网易游戏官方交易平台，买卖游戏道具。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "游戏交易",
@@ -10178,8 +9797,7 @@
     "logo": "",
     "description": "游戏交易平台，提供游戏账号、道具交易。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "游戏交易",
@@ -10204,8 +9822,7 @@
     "logo": "",
     "description": "全球游戏虚拟物品交易平台。",
     "category": [
-      "交易",
-      "国际"
+      "交易"
     ],
     "tags": [
       "游戏交易",
@@ -10231,8 +9848,7 @@
     "logo": "",
     "description": "免费PC游戏下载网站。",
     "category": [
-      "下载",
-      "国际"
+      "其他"
     ],
     "tags": [
       "游戏下载",
@@ -10257,8 +9873,7 @@
     "logo": "",
     "description": "PC游戏下载网站。",
     "category": [
-      "下载",
-      "国际"
+      "其他"
     ],
     "tags": [
       "游戏下载",
@@ -10282,8 +9897,7 @@
     "logo": "",
     "description": "知名游戏压缩包下载站，下载重压缩版游戏。",
     "category": [
-      "下载",
-      "国际"
+      "其他"
     ],
     "tags": [
       "游戏下载",
@@ -10309,8 +9923,7 @@
     "logo": "",
     "description": "国产安卓模拟器，支持电脑玩手游。",
     "category": [
-      "模拟器",
-      "国内"
+      "模拟器"
     ],
     "tags": [
       "安卓模拟",
@@ -10318,7 +9931,7 @@
       "手游"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "模拟器",
     "highlights": [
@@ -10336,8 +9949,7 @@
     "logo": "",
     "description": "全球视觉小说游戏数据库。",
     "category": [
-      "类型",
-      "国际"
+      "其他"
     ],
     "tags": [
       "视觉小说",
@@ -10363,8 +9975,7 @@
     "logo": "",
     "description": "Paradox Interactive官方游戏平台，出品策略游戏。",
     "category": [
-      "客户端",
-      "发行"
+      "客户端"
     ],
     "tags": [
       "Paradox",
@@ -10390,8 +10001,7 @@
     "logo": "",
     "description": "EA官方订阅服务，前身Origin Access。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "EA",
@@ -10417,8 +10027,7 @@
     "logo": "",
     "description": "育碧官方游戏平台。",
     "category": [
-      "客户端",
-      "服务"
+      "客户端"
     ],
     "tags": [
       "育碧",
@@ -10444,8 +10053,7 @@
     "logo": "",
     "description": "谷歌官方游戏订阅服务，无广告解锁游戏。",
     "category": [
-      "手游",
-      "订阅"
+      "手游"
     ],
     "tags": [
       "Google",
@@ -10471,8 +10079,7 @@
     "logo": "",
     "description": "微软PC游戏订阅服务。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "Game Pass",
@@ -10498,8 +10105,7 @@
     "logo": "",
     "description": "Epic官方游戏商城，每周免费游戏。",
     "category": [
-      "客户端",
-      "国际"
+      "客户端"
     ],
     "tags": [
       "Epic",
@@ -10525,8 +10131,7 @@
     "logo": "",
     "description": "谷歌Stadia云游戏服务（已停止运营）。",
     "category": [
-      "云游戏",
-      "已停"
+      "云游戏"
     ],
     "tags": [
       "云游戏",
@@ -10534,7 +10139,7 @@
       "已停运"
     ],
     "region": [
-      "已停运"
+      "全球"
     ],
     "game_count": "云游戏",
     "highlights": [
@@ -10551,8 +10156,7 @@
     "logo": "",
     "description": "索尼PS云游戏订阅（已整合至PS Plus）。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "PS",
@@ -10578,8 +10182,7 @@
     "logo": "",
     "description": "任天堂Switch网络服务，含FC/SFC/NES游戏。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -10605,8 +10208,7 @@
     "logo": "",
     "description": "EA高级订阅服务，含最新EA游戏。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "EA",
@@ -10632,8 +10234,7 @@
     "logo": "",
     "description": "育碧官方订阅服务，畅玩育碧全家桶。",
     "category": [
-      "主机",
-      "服务"
+      "主机"
     ],
     "tags": [
       "育碧",
@@ -10659,8 +10260,7 @@
     "logo": "",
     "description": "华为官方游戏中心，游戏分发重要渠道。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "华为",
@@ -10686,8 +10286,7 @@
     "logo": "",
     "description": "OPPO官方游戏中心。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "OPPO",
@@ -10713,8 +10312,7 @@
     "logo": "",
     "description": "vivo官方游戏中心。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "vivo",
@@ -10740,8 +10338,7 @@
     "logo": "",
     "description": "小米官方游戏分发平台。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "小米",
@@ -10767,8 +10364,7 @@
     "logo": "",
     "description": "阿里云旗下云游戏服务。",
     "category": [
-      "云游戏",
-      "国内"
+      "云游戏"
     ],
     "tags": [
       "阿里云",
@@ -10794,8 +10390,7 @@
     "logo": "",
     "description": "独立游戏工作室，发行原创游戏。",
     "category": [
-      "游戏发行",
-      "国内"
+      "其他"
     ],
     "tags": [
       "独立游戏",
@@ -10803,7 +10398,7 @@
       "国内"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "游戏发行",
     "highlights": [
@@ -10821,8 +10416,7 @@
     "logo": "",
     "description": "心动游戏（仙灵物语发行方），旗下有TapTap。",
     "category": [
-      "游戏发行",
-      "国内"
+      "其他"
     ],
     "tags": [
       "发行",
@@ -10830,7 +10424,7 @@
       "心动"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "游戏发行",
     "highlights": [
@@ -10848,8 +10442,7 @@
     "logo": "",
     "description": "4399手游平台APP版。",
     "category": [
-      "手游",
-      "国内"
+      "手游"
     ],
     "tags": [
       "4399",
@@ -10875,8 +10468,7 @@
     "logo": "",
     "description": "快手旗下游戏内容和直播平台。",
     "category": [
-      "游戏",
-      "国内"
+      "其他"
     ],
     "tags": [
       "快手",
@@ -10902,8 +10494,7 @@
     "logo": "",
     "description": "字节跳动抖音旗下游戏平台。",
     "category": [
-      "游戏",
-      "国内"
+      "其他"
     ],
     "tags": [
       "抖音",
@@ -10929,8 +10520,7 @@
     "logo": "",
     "description": "B站游戏发行和联运平台。",
     "category": [
-      "游戏发行",
-      "国内"
+      "其他"
     ],
     "tags": [
       "B站",
@@ -10956,8 +10546,7 @@
     "logo": "",
     "description": "小红书游戏内容平台。",
     "category": [
-      "游戏",
-      "国内"
+      "其他"
     ],
     "tags": [
       "小红书",
@@ -10982,8 +10571,7 @@
     "logo": "",
     "description": "微信内置游戏平台，小游戏为主。",
     "category": [
-      "小游戏",
-      "国内"
+      "小游戏"
     ],
     "tags": [
       "微信",
@@ -11009,8 +10597,7 @@
     "logo": "",
     "description": "QQ小程序游戏平台。",
     "category": [
-      "小游戏",
-      "国内"
+      "小游戏"
     ],
     "tags": [
       "QQ",
@@ -11036,8 +10623,7 @@
     "logo": "",
     "description": "百度智能小程序游戏平台。",
     "category": [
-      "小游戏",
-      "国内"
+      "小游戏"
     ],
     "tags": [
       "百度",
@@ -11062,8 +10648,7 @@
     "logo": "",
     "description": "字节跳动今日头条游戏平台。",
     "category": [
-      "小游戏",
-      "国内"
+      "小游戏"
     ],
     "tags": [
       "字节",
@@ -11088,8 +10673,7 @@
     "logo": "",
     "description": "国内最大游戏论坛之一，以魔兽、暴雪系游戏著称。",
     "category": [
-      "社区",
-      "国内"
+      "社区"
     ],
     "tags": [
       "论坛",
@@ -11115,8 +10699,7 @@
     "logo": "",
     "description": "TapTap内置玩家社区。",
     "category": [
-      "社区",
-      "国内"
+      "社区"
     ],
     "tags": [
       "社区",
@@ -11142,8 +10725,7 @@
     "logo": "",
     "description": "国内深度游戏文化媒体，专注游戏评论和访谈。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -11169,8 +10751,7 @@
     "logo": "",
     "description": "游戏行业深度媒体和研究机构。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -11196,8 +10777,7 @@
     "logo": "",
     "description": "游戏行业媒体，关注游戏创业和发行。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -11223,8 +10803,7 @@
     "logo": "",
     "description": "DoNews游戏频道。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -11248,8 +10827,7 @@
     "logo": "",
     "description": "人民网游戏频道。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "官媒",
@@ -11275,8 +10853,7 @@
     "logo": "",
     "description": "游戏网络加速器。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -11300,8 +10877,7 @@
     "logo": "",
     "description": "游戏加速器，支持主机和PC。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -11326,8 +10902,7 @@
     "logo": "",
     "description": "游戏加速器。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速"
@@ -11350,8 +10925,7 @@
     "logo": "",
     "description": "NX自研游戏加速器。",
     "category": [
-      "加速器",
-      "国内"
+      "加速器"
     ],
     "tags": [
       "游戏加速",
@@ -11375,8 +10949,7 @@
     "logo": "",
     "description": "游戏道具和账号交易平台。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "游戏交易",
@@ -11402,8 +10975,7 @@
     "logo": "",
     "description": "游民星空旗下游戏交易平台。",
     "category": [
-      "交易",
-      "国内"
+      "交易"
     ],
     "tags": [
       "游戏交易",
@@ -11427,8 +10999,7 @@
     "logo": "",
     "description": "越南Steam游戏交易平台。",
     "category": [
-      "交易",
-      "东南亚"
+      "交易"
     ],
     "tags": [
       "Steam",
@@ -11454,8 +11025,7 @@
     "logo": "",
     "description": "国内领先游戏引擎，专注小游戏和手游。",
     "category": [
-      "开发",
-      "国内"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -11463,7 +11033,7 @@
       "小游戏"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "开发工具",
     "highlights": [
@@ -11481,8 +11051,7 @@
     "logo": "",
     "description": "国内HTML5游戏引擎。",
     "category": [
-      "开发",
-      "国内"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -11490,7 +11059,7 @@
       "国内"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "开发工具",
     "highlights": [
@@ -11508,8 +11077,7 @@
     "logo": "",
     "description": "国内2D游戏引擎。",
     "category": [
-      "开发",
-      "国内"
+      "开发"
     ],
     "tags": [
       "游戏引擎",
@@ -11517,7 +11085,7 @@
       "国内"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "开发工具",
     "highlights": [
@@ -11535,8 +11103,7 @@
     "logo": "",
     "description": "Unity引擎官方中国区。",
     "category": [
-      "开发",
-      "国内"
+      "开发"
     ],
     "tags": [
       "Unity",
@@ -11544,7 +11111,7 @@
       "国内"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "开发工具",
     "highlights": [
@@ -11562,8 +11129,7 @@
     "logo": "",
     "description": "虚幻引擎官方中国。",
     "category": [
-      "开发",
-      "国内"
+      "开发"
     ],
     "tags": [
       "虚幻",
@@ -11571,7 +11137,7 @@
       "游戏引擎"
     ],
     "region": [
-      "全球"
+      "中国大陆"
     ],
     "game_count": "开发工具",
     "highlights": [
@@ -11589,8 +11155,7 @@
     "logo": "",
     "description": "国内游戏媒体，专注热门游戏。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -11616,8 +11181,7 @@
     "logo": "",
     "description": "国内老牌游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -11642,8 +11206,7 @@
     "logo": "",
     "description": "游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体"
@@ -11666,8 +11229,7 @@
     "logo": "",
     "description": "游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体"
@@ -11690,8 +11252,7 @@
     "logo": "",
     "description": "老牌游戏下载和资讯站。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏下载",
@@ -11717,8 +11278,7 @@
     "logo": "",
     "description": "太平洋网络旗下游戏频道。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -11743,8 +11303,7 @@
     "logo": "",
     "description": "天极网游戏频道。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体",
@@ -11768,8 +11327,7 @@
     "logo": "",
     "description": "游戏媒体。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "游戏媒体"
@@ -11792,8 +11350,7 @@
     "logo": "",
     "description": "锤子科技游戏平台。",
     "category": [
-      "客户端",
-      "国内"
+      "客户端"
     ],
     "tags": [
       "游戏平台",
@@ -11817,8 +11374,7 @@
     "logo": "",
     "description": "豆瓣游戏内容页面。",
     "category": [
-      "媒体",
-      "国内"
+      "媒体"
     ],
     "tags": [
       "豆瓣",
@@ -11843,15 +11399,14 @@
     "logo": "",
     "description": "香港PlayStation官方站。",
     "category": [
-      "主机",
-      "港澳台"
+      "主机"
     ],
     "tags": [
       "香港",
       "PlayStation"
     ],
     "region": [
-      "港澳台"
+      "全球"
     ],
     "game_count": "主机",
     "highlights": [
@@ -11868,15 +11423,14 @@
     "logo": "",
     "description": "港澳游戏对战平台。",
     "category": [
-      "游戏",
-      "港澳台"
+      "其他"
     ],
     "tags": [
       "港澳",
       "游戏"
     ],
     "region": [
-      "港澳台"
+      "全球"
     ],
     "game_count": "游戏平台",
     "highlights": [
@@ -11893,8 +11447,7 @@
     "logo": "",
     "description": "日本最大同人游戏/声优作品平台。",
     "category": [
-      "日本",
-      "同人"
+      "其他"
     ],
     "tags": [
       "同人游戏",
@@ -11921,8 +11474,7 @@
     "logo": "",
     "description": "日本游戏网站。",
     "category": [
-      "日本",
-      "游戏"
+      "其他"
     ],
     "tags": [
       "日本",
@@ -11946,8 +11498,7 @@
     "logo": "",
     "description": "索尼官方PS游戏商店。",
     "category": [
-      "主机",
-      "日本"
+      "主机"
     ],
     "tags": [
       "PS",
@@ -11955,7 +11506,7 @@
       "日本"
     ],
     "region": [
-      "全球"
+      "日本"
     ],
     "game_count": "游戏商店",
     "highlights": [
@@ -11973,8 +11524,7 @@
     "logo": "",
     "description": "任天堂Switch日本官网游戏列表。",
     "category": [
-      "主机",
-      "日本"
+      "主机"
     ],
     "tags": [
       "Switch",
@@ -12000,8 +11550,7 @@
     "logo": "",
     "description": "韩国Naver门户游戏频道。",
     "category": [
-      "韩国",
-      "游戏门户"
+      "其他"
     ],
     "tags": [
       "韩国",
@@ -12026,8 +11575,7 @@
     "logo": "",
     "description": "Steam韩国区商店。",
     "category": [
-      "客户端",
-      "韩国"
+      "客户端"
     ],
     "tags": [
       "Steam",
@@ -12052,8 +11600,7 @@
     "logo": "",
     "description": "东南亚最大游戏发行和平台之一，腾讯控股。",
     "category": [
-      "游戏发行",
-      "东南亚"
+      "其他"
     ],
     "tags": [
       "Garena",
@@ -12079,8 +11626,7 @@
     "logo": "",
     "description": "越南领先游戏公司。",
     "category": [
-      "游戏发行",
-      "东南亚"
+      "其他"
     ],
     "tags": [
       "越南",
@@ -12105,8 +11651,7 @@
     "logo": "",
     "description": "Line旗下游戏平台。",
     "category": [
-      "游戏",
-      "东南亚"
+      "其他"
     ],
     "tags": [
       "Line",
@@ -12132,8 +11677,7 @@
     "logo": "",
     "description": "猎豹移动旗下游戏平台。",
     "category": [
-      "游戏",
-      "东南亚"
+      "其他"
     ],
     "tags": [
       "猎豹",
@@ -12141,8 +11685,7 @@
       "海外"
     ],
     "region": [
-      "东南亚",
-      "全球"
+      "东南亚"
     ],
     "game_count": "游戏平台",
     "highlights": [
@@ -12159,8 +11702,7 @@
     "logo": "",
     "description": "Frontier Developments官方游戏商店。",
     "category": [
-      "客户端",
-      "欧洲"
+      "客户端"
     ],
     "tags": [
       "游戏商店",
@@ -12186,8 +11728,7 @@
     "logo": "",
     "description": "欧洲游戏发行商（深银品牌）。",
     "category": [
-      "游戏发行",
-      "欧洲"
+      "其他"
     ],
     "tags": [
       "欧洲",
@@ -12213,8 +11754,7 @@
     "logo": "",
     "description": "万代南梦宫北美官方商店。",
     "category": [
-      "客户端",
-      "北美"
+      "客户端"
     ],
     "tags": [
       "万代",
@@ -12240,8 +11780,7 @@
     "logo": "",
     "description": "史克威尔艾尼克斯官方数字商店。",
     "category": [
-      "客户端",
-      "北美"
+      "客户端"
     ],
     "tags": [
       "SE",
@@ -12267,8 +11806,7 @@
     "logo": "",
     "description": "巴西游戏零售平台。",
     "category": [
-      "游戏",
-      "南美"
+      "其他"
     ],
     "tags": [
       "巴西",
@@ -12292,8 +11830,7 @@
     "logo": "",
     "description": "中东和北非游戏平台。",
     "category": [
-      "游戏",
-      "中东"
+      "其他"
     ],
     "tags": [
       "中东",
@@ -12318,8 +11855,7 @@
     "logo": "",
     "description": "非洲游戏平台。",
     "category": [
-      "游戏",
-      "非洲"
+      "其他"
     ],
     "tags": [
       "非洲",
@@ -12344,8 +11880,7 @@
     "logo": "",
     "description": "印度领先游戏发行商。",
     "category": [
-      "游戏发行",
-      "印度"
+      "其他"
     ],
     "tags": [
       "印度",
@@ -12371,8 +11906,7 @@
     "logo": "",
     "description": "印度游戏平台。",
     "category": [
-      "游戏",
-      "印度"
+      "其他"
     ],
     "tags": [
       "印度",
@@ -12396,8 +11930,7 @@
     "logo": "",
     "description": "澳洲游戏零售连锁店在线商店。",
     "category": [
-      "游戏",
-      "澳洲"
+      "其他"
     ],
     "tags": [
       "澳洲",
@@ -12421,8 +11954,7 @@
     "logo": "",
     "description": "澳洲游戏点卡零售商。",
     "category": [
-      "游戏",
-      "澳洲"
+      "其他"
     ],
     "tags": [
       "澳洲",
@@ -12435,6 +11967,3767 @@
     "game_count": "游戏点卡",
     "highlights": [
       "澳洲游戏零售"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "nexusmods",
+    "name": "Nexus Mods",
+    "name_cn": "Nexus Mods",
+    "url": "https://www.nexusmods.com",
+    "logo": "",
+    "description": "全球最大Mod下载平台，支持众多3A游戏mod下载和管理。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "Mod",
+      "游戏mod",
+      "下载"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "Mod库",
+    "highlights": [
+      "Mod管理",
+      "免费",
+      "社区"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "moddb",
+    "name": "ModDB",
+    "name_cn": "ModDB",
+    "url": "https://www.moddb.com",
+    "logo": "",
+    "description": "全球最大游戏Mod社区，提供Mod新闻和下载。",
+    "category": [
+      "社区"
+    ],
+    "tags": [
+      "Mod",
+      "游戏mod",
+      "社区"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "Mod社区",
+    "highlights": [
+      "Mod社区",
+      "新闻",
+      "下载"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "loverslab",
+    "name": "LoverS Lab",
+    "name_cn": "LoverS Lab",
+    "url": "https://www.loverslab.com",
+    "logo": "",
+    "description": "知名Mod分享社区，以成人向Mod著称。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "Mod",
+      "成人Mod",
+      "下载"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "Mod库",
+    "highlights": [
+      "Mod下载",
+      "成人向"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "nexus_vortex",
+    "name": "Vortex Mod Manager",
+    "name_cn": "Vortex Mod管理器",
+    "url": "https://www.nexusmods.com/about/vortex",
+    "logo": "",
+    "description": "Nexus Mods官方Mod管理器。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "Mod管理",
+      "工具",
+      "免费"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "Mod工具",
+    "highlights": [
+      "Mod管理",
+      "Vortex"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "loot",
+    "name": "LOOT",
+    "name_cn": "LOOT Mod排序工具",
+    "url": "https://loot.github.io",
+    "logo": "",
+    "description": "游戏Mod排序工具，支持上古卷轴、辐射等。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "Mod工具",
+      "排序",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "Mod工具",
+    "highlights": [
+      "Mod排序",
+      "开源"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "modorganizer2",
+    "name": "Mod Organizer 2",
+    "name_cn": "Mod Organizer 2",
+    "url": "https://www.modorganizer2.com",
+    "logo": "",
+    "description": "知名Mod管理工具，Bethesda游戏必备。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "Mod管理",
+      "工具",
+      "上古卷轴"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "Mod工具",
+    "highlights": [
+      "Mod管理",
+      "B社"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "wabbajack",
+    "name": "Wabbajack",
+    "name_cn": "Wabbajack Mod合集",
+    "url": "https://www.wabbajack.org",
+    "logo": "",
+    "description": "自动安装Mod合集的工具。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "Mod合集",
+      "自动安装"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "Mod工具",
+    "highlights": [
+      "Mod合集",
+      "自动化"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "devolver",
+    "name": "Devolver Digital",
+    "name_cn": "Devolver Digital",
+    "url": "https://devolverdigital.com",
+    "logo": "",
+    "description": "知名独立游戏发行商，发行众多Cult经典。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏",
+      "Cult",
+      "发行"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "独立游戏",
+    "highlights": [
+      "Cult经典",
+      "独立发行"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "chucklefish",
+    "name": "Chucklefish",
+    "name_cn": "Chucklefish",
+    "url": "https://www.chucklefish.org",
+    "logo": "",
+    "description": "独立游戏发行商，发行《Stardew Valley》《Starbound》等。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏",
+      "发行",
+      "像素"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "独立游戏",
+    "highlights": [
+      "像素游戏",
+      "发行"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "rawfury",
+    "name": "Raw Fury",
+    "name_cn": "Raw Fury",
+    "url": "https://rawfury.com",
+    "logo": "",
+    "description": "独立游戏发行商，发行《Backbone》等精品。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏",
+      "发行"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "独立游戏",
+    "highlights": [
+      "独立发行",
+      "精品"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "curve_digital",
+    "name": "Curve Digital",
+    "name_cn": "Curve Digital",
+    "url": "https://www.curve-digital.com",
+    "logo": "",
+    "description": "英国数字游戏发行商。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "数字发行",
+      "英国"
+    ],
+    "region": [
+      "英国"
+    ],
+    "game_count": "发行游戏",
+    "highlights": [
+      "数字发行"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "tinybuild",
+    "name": "TinyBuild",
+    "name_cn": "TinyBuild",
+    "url": "https://tinybuild.com",
+    "logo": "",
+    "description": "美国游戏发行商，以独立游戏著称。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "游戏发行",
+      "美国",
+      "独立"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "发行游戏",
+    "highlights": [
+      "独立游戏"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "team17",
+    "name": "Team17",
+    "name_cn": "Team17",
+    "url": "https://www.team17.com",
+    "logo": "",
+    "description": "英国游戏发行商，发行《百战天虫》等。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "游戏发行",
+      "英国",
+      "休闲"
+    ],
+    "region": [
+      "欧洲"
+    ],
+    "game_count": "发行游戏",
+    "highlights": [
+      "休闲游戏",
+      "百战天虫"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "505_games",
+    "name": "505 Games",
+    "name_cn": "505 Games",
+    "url": "https://www.505games.com",
+    "logo": "",
+    "description": "意大利游戏发行商。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "游戏发行",
+      "意大利",
+      "数字"
+    ],
+    "region": [
+      "欧洲"
+    ],
+    "game_count": "发行游戏",
+    "highlights": [
+      "数字发行"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "paradox",
+    "name": "Paradox Interactive",
+    "name_cn": "Paradox Interactive",
+    "url": "https://www.paradoxplaza.com",
+    "logo": "",
+    "description": "P社游戏官方平台，策略游戏领先发行商。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "策略游戏",
+      "P社",
+      "发行"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "策略游戏",
+    "highlights": [
+      "P社游戏",
+      "策略"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "matrix_games",
+    "name": "Matrix Games",
+    "name_cn": "Matrix Games",
+    "url": "https://www.matrixgames.com",
+    "logo": "",
+    "description": "战略游戏发行平台。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "战略游戏",
+      "发行"
+    ],
+    "region": [
+      "欧洲"
+    ],
+    "game_count": "战略游戏",
+    "highlights": [
+      "战略游戏"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "slitherine",
+    "name": "Slitherine",
+    "name_cn": "Slitherine",
+    "url": "https://www.slitherine.com",
+    "logo": "",
+    "description": "战略游戏发行商，专注回合制策略。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "战略游戏",
+      "回合制"
+    ],
+    "region": [
+      "欧洲"
+    ],
+    "game_count": "战略游戏",
+    "highlights": [
+      "回合制策略"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "klei",
+    "name": "Klei Entertainment",
+    "name_cn": "Klei",
+    "url": "https://www.klei.com",
+    "logo": "",
+    "description": "加拿大独立游戏工作室，发行《饥荒》《缺氧》等。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏",
+      "发行",
+      "饥荒"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "独立游戏",
+    "highlights": [
+      "饥荒",
+      "精品独立"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "subset",
+    "name": "Subset Games",
+    "name_cn": "Subset Games",
+    "url": "https://subsetgames.com",
+    "logo": "",
+    "description": "独立游戏工作室，发行《FTL》《Into the Breach》。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏",
+      "策略",
+      "像素"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "独立游戏",
+    "highlights": [
+      "FTL",
+      "精品独立"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "panic",
+    "name": "Panic",
+    "name_cn": "Panic",
+    "url": "https://www.panic.com",
+    "logo": "",
+    "description": "独立游戏工作室，发行《Firewatch》《Jackbox》等。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏",
+      "发行",
+      "精品"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "独立游戏",
+    "highlights": [
+      "精品独立"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "finji",
+    "name": "Finji",
+    "name_cn": "Finji",
+    "url": "https://www.finji.com",
+    "logo": "",
+    "description": "独立游戏发行商。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏",
+      "发行"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "独立游戏",
+    "highlights": [
+      "独立发行"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "sleepy",
+    "name": "Sleepy Dog Studios",
+    "name_cn": "Sleepy Dog",
+    "url": "https://sleepydogstudios.com",
+    "logo": "",
+    "description": "独立游戏工作室。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "独立游戏",
+    "highlights": [
+      "独立游戏"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "cozy_grove",
+    "name": "Cozy Grove",
+    "name_cn": "Cozy Grove",
+    "url": "https://www.cozygrove.com",
+    "logo": "",
+    "description": "独立休闲游戏。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "休闲游戏",
+      "独立"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "休闲游戏",
+    "highlights": [
+      "休闲",
+      "独立"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "throwback",
+    "name": "Throwback Entertainment",
+    "name_cn": "Throwback",
+    "url": "https://www.throwbackent.com",
+    "logo": "",
+    "description": "经典游戏重新发行平台。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "经典游戏",
+      "重制",
+      "复古"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "复古游戏",
+    "highlights": [
+      "经典重制"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "ps_plus_premium",
+    "name": "PlayStation Plus Premium",
+    "name_cn": "PS Plus高级订阅",
+    "url": "https://www.playstation.com/ps-plus/",
+    "logo": "",
+    "description": "索尼PS Plus最高级别订阅，含云游戏和经典游戏目录。",
+    "category": [
+      "订阅服务"
+    ],
+    "tags": [
+      "订阅",
+      "云游戏",
+      "经典"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "订阅服务",
+    "highlights": [
+      "PS Plus",
+      "云游戏",
+      "经典目录"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "game_pass_ultimate",
+    "name": "Xbox Game Pass Ultimate",
+    "name_cn": "Game Pass终极版",
+    "url": "https://www.xbox.com/game-pass/ultimate",
+    "logo": "",
+    "description": "微软终极游戏订阅，含PC、主机、云游戏。",
+    "category": [
+      "订阅服务"
+    ],
+    "tags": [
+      "Game Pass",
+      "云游戏",
+      "订阅"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "订阅服务",
+    "highlights": [
+      "终极订阅",
+      "PC+主机+云"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "apple_arcade_sub",
+    "name": "Apple Arcade",
+    "name_cn": "Apple Arcade",
+    "url": "https://www.apple.com/apple-arcade/",
+    "logo": "",
+    "description": "苹果官方游戏订阅服务，覆盖iOS/macOS。",
+    "category": [
+      "订阅服务"
+    ],
+    "tags": [
+      "Apple",
+      "订阅",
+      "手游"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "订阅服务",
+    "highlights": [
+      "Apple游戏",
+      "无广告"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "google_play_pass_sub",
+    "name": "Google Play Pass",
+    "name_cn": "Google Play Pass",
+    "url": "https://play.google.com/about/play-pass/",
+    "logo": "",
+    "description": "谷歌官方游戏订阅服务，无广告解锁游戏。",
+    "category": [
+      "订阅服务"
+    ],
+    "tags": [
+      "Google",
+      "订阅",
+      "Android"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "订阅服务",
+    "highlights": [
+      "Google游戏",
+      "无广告"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "steamprices",
+    "name": "SteamPrices",
+    "name_cn": "SteamPrices",
+    "url": "https://steamprices.com",
+    "logo": "",
+    "description": "Steam游戏价格比较和历史最低价追踪。",
+    "category": [
+      "折扣"
+    ],
+    "tags": [
+      "Steam价格",
+      "史低追踪"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "价格追踪",
+    "highlights": [
+      "价格比较",
+      "史低"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "steampy",
+    "name": "Steampy",
+    "name_cn": "Steampy",
+    "url": "https://steampy.com",
+    "logo": "",
+    "description": "Steam游戏道具和Key交易平台。",
+    "category": [
+      "交易"
+    ],
+    "tags": [
+      "Steam道具",
+      "Key交易"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏交易",
+    "highlights": [
+      "Steam交易",
+      "Key市场"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "barter_vg",
+    "name": "Barter.vg",
+    "name_cn": "Barter.vg",
+    "url": "https://barter.vg",
+    "logo": "",
+    "description": "Steam游戏交易和交换平台。",
+    "category": [
+      "交易"
+    ],
+    "tags": [
+      "Steam交换",
+      "游戏交易"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏交易",
+    "highlights": [
+      "Steam交换"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "backpack_tf",
+    "name": "Backpack.tf",
+    "name_cn": "Steam Backpack",
+    "url": "https://backpack.tf",
+    "logo": "",
+    "description": "Steam背包/道具价值计算器。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "Steam道具",
+      "价值计算"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "工具",
+    "highlights": [
+      "道具价值",
+      "交易工具"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "indiedb",
+    "name": "IndieDB",
+    "name_cn": "IndieDB",
+    "url": "https://www.indiedb.com",
+    "logo": "",
+    "description": "独立游戏数据库和社区。",
+    "category": [
+      "社区"
+    ],
+    "tags": [
+      "独立游戏",
+      "数据库",
+      "社区"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "独立游戏社区",
+    "highlights": [
+      "独立游戏",
+      "社区"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "indieadb",
+    "name": "IndieADB",
+    "name_cn": "IndieADB",
+    "url": "https://www.indieadb.com",
+    "logo": "",
+    "description": "独立游戏数据库。",
+    "category": [
+      "数据库"
+    ],
+    "tags": [
+      "独立游戏",
+      "数据库"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "数据库",
+    "highlights": [
+      "独立游戏库"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "dolphin_emulator",
+    "name": "Dolphin",
+    "name_cn": "Dolphin GameCube/Wii模拟器",
+    "url": "https://dolphin-emu.org",
+    "logo": "",
+    "description": "开源GameCube和Wii模拟器，兼容性极佳。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "GameCube",
+      "Wii",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "NGC模拟",
+      "Wii模拟",
+      "最佳"
+    ],
+    "rating": 9.5,
+    "status": "active"
+  },
+  {
+    "id": "yuzu_emu",
+    "name": "Yuzu",
+    "name_cn": "Yuzu Nintendo Switch模拟器",
+    "url": "https://yuzu-emu.org",
+    "logo": "",
+    "description": "开源Switch模拟器，已支持多数游戏。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "Switch",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "Switch模拟",
+      "热门"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "cemu_emu",
+    "name": "Cemu",
+    "name_cn": "Cemu WiiU模拟器",
+    "url": "https://cemu.info",
+    "logo": "",
+    "description": "开源Wii U模拟器，兼容性高。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "Wii U",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "WiiU模拟",
+      "兼容性好"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "rpcs3_emu",
+    "name": "RPCS3",
+    "name_cn": "RPCS3 PS3模拟器",
+    "url": "https://rpcs3.net",
+    "logo": "",
+    "description": "开源PS3模拟器，已支持大量游戏。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "PS3",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "PS3模拟",
+      "开源"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "pcsx2_emu",
+    "name": "PCSX2",
+    "name_cn": "PCSX2 PS2模拟器",
+    "url": "https://pcsx2.net",
+    "logo": "",
+    "description": "开源PS2模拟器，兼容性极佳。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "PS2",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "PS2模拟",
+      "成熟"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "citra_emu",
+    "name": "Citra",
+    "name_cn": "Citra 3DS模拟器",
+    "url": "https://citra-emu.org",
+    "logo": "",
+    "description": "开源Nintendo 3DS模拟器。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "3DS",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "3DS模拟"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "melonds",
+    "name": "MelonDS",
+    "name_cn": "MelonDS",
+    "url": "https://melonDS.com",
+    "logo": "",
+    "description": "开源NDS模拟器，兼容性优秀。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "NDS",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "NDS模拟"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "ppsspp_emu",
+    "name": "PPSSPP",
+    "name_cn": "PPSSPP PSP模拟器",
+    "url": "https://www.ppsspp.org",
+    "logo": "",
+    "description": "开源PSP模拟器，跨平台支持。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "PSP",
+      "模拟器",
+      "跨平台"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "PSP模拟",
+      "跨平台"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "duckstation_emu",
+    "name": "DuckStation",
+    "name_cn": "DuckStation",
+    "url": "https://www.duckstation.org",
+    "logo": "",
+    "description": "开源PS1模拟器，界面简洁。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "PS1",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "PS1模拟"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "retroarch",
+    "name": "RetroArch",
+    "name_cn": "RetroArch统一模拟器",
+    "url": "https://retroarch.com",
+    "logo": "",
+    "description": "统一模拟器前端，支持众多平台。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "统一模拟器",
+      "前端",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "统一前端",
+      "多平台"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "snes9x_emu",
+    "name": "Snes9x",
+    "name_cn": "Snes9x SNES模拟器",
+    "url": "https://www.snes9x.com",
+    "logo": "",
+    "description": "开源SNES模拟器。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "SNES",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "SNES模拟"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "xemu_emu",
+    "name": "Xemu",
+    "name_cn": "Xemu Xbox模拟器",
+    "url": "https://xemu.app",
+    "logo": "",
+    "description": "开源初代Xbox模拟器。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "Xbox",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "Xbox模拟"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "xenia_emu",
+    "name": "Xenia",
+    "name_cn": "Xenia Xbox 360模拟器",
+    "url": "https://xenia.jp",
+    "logo": "",
+    "description": "开源Xbox 360模拟器。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "Xbox360",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "Xbox360模拟"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "vba_m",
+    "name": "Visual Boy Advance",
+    "name_cn": "VBA-M",
+    "url": "https://vba-m.com",
+    "logo": "",
+    "description": "开源GBA模拟器。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "GBA",
+      "模拟器",
+      "开源"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "GBA模拟"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "no_gba",
+    "name": "NO$GBA",
+    "name_cn": "NO$GBA",
+    "url": "https://www.nogba.com",
+    "logo": "",
+    "description": "高质量GBA/NDS模拟器。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "GBA",
+      "NDS",
+      "模拟器"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "GBA模拟",
+      "调试"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "bizhawk_emu",
+    "name": "BizHawk",
+    "name_cn": "BizHawk多功能模拟器",
+    "url": "https://bizhawk.net",
+    "logo": "",
+    "description": "开源多功能模拟器，支持作弊和调试。",
+    "category": [
+      "模拟器"
+    ],
+    "tags": [
+      "模拟器",
+      "调试",
+      "作弊"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "多功能",
+      "调试"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "atmosphere",
+    "name": "Atmosphere",
+    "name_cn": "Atmosphere CFW",
+    "url": "https://github.com/Atmosphere-NX/Atmosphere",
+    "logo": "",
+    "description": "Switch自制固件。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "Switch",
+      "自制固件",
+      "破解"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "主机工具",
+    "highlights": [
+      "CFW",
+      "Switch"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "faceit",
+    "name": "FACEIT",
+    "name_cn": "FACEIT电竞平台",
+    "url": "https://www.faceit.com",
+    "logo": "",
+    "description": "全球最大电竞对战平台之一，支持CS2、DOTA2等。",
+    "category": [
+      "对战"
+    ],
+    "tags": [
+      "电竞",
+      "对战平台",
+      "竞技"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "电竞平台",
+    "highlights": [
+      "竞技对战",
+      "电竞联赛"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "esea_",
+    "name": "ESEA",
+    "name_cn": "ESEA",
+    "url": "https://play.esea.net",
+    "logo": "",
+    "description": "北美电竞对战平台，专注CS:GO。",
+    "category": [
+      "对战"
+    ],
+    "tags": [
+      "电竞",
+      "CSGO",
+      "北美"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "电竞平台",
+    "highlights": [
+      "CSGO",
+      "电竞联赛"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "esl_gaming",
+    "name": "ESL Gaming",
+    "name_cn": "ESL电竞",
+    "url": "https://www.eslgaming.com",
+    "logo": "",
+    "description": "全球最大电竞组织之一。",
+    "category": [
+      "对战"
+    ],
+    "tags": [
+      "电竞",
+      "比赛",
+      "全球"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "电竞",
+    "highlights": [
+      "ESL联赛",
+      "电竞比赛"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "battlefy",
+    "name": "Battlefy",
+    "name_cn": "Battlefy",
+    "url": "https://www.battlefy.com",
+    "logo": "",
+    "description": "电竞赛事组织平台。",
+    "category": [
+      "对战"
+    ],
+    "tags": [
+      "电竞",
+      "赛事",
+      "组织"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "电竞赛事",
+    "highlights": [
+      "赛事组织",
+      "社区联赛"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "toornament_",
+    "name": "Toornament",
+    "name_cn": "Toornament",
+    "url": "https://www.toornament.com",
+    "logo": "",
+    "description": "电竞赛事管理平台。",
+    "category": [
+      "对战"
+    ],
+    "tags": [
+      "赛事管理",
+      "电竞"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "赛事管理",
+    "highlights": [
+      "赛事平台"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "sega_official",
+    "name": "Sega",
+    "name_cn": "世嘉",
+    "url": "https://www.sega.com",
+    "logo": "",
+    "description": "日本经典游戏厂商。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "日本",
+      "游戏厂商",
+      "经典"
+    ],
+    "region": [
+      "日本"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "世嘉",
+      "经典"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "capcom_official",
+    "name": "Capcom",
+    "name_cn": "卡普空",
+    "url": "https://www.capcom.com",
+    "logo": "",
+    "description": "日本知名游戏厂商。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "日本",
+      "游戏厂商",
+      "经典"
+    ],
+    "region": [
+      "日本"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "卡普空",
+      "街霸",
+      "生化危机"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "konami_official",
+    "name": "Konami",
+    "name_cn": "科乐美",
+    "url": "https://www.konami.com",
+    "logo": "",
+    "description": "日本经典游戏厂商。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "日本",
+      "游戏厂商",
+      "经典"
+    ],
+    "region": [
+      "日本"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "科乐美",
+      "游戏王"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "square_enix_official",
+    "name": "Square Enix",
+    "name_cn": "史克威尔艾尼克斯",
+    "url": "https://www.square-enix.com",
+    "logo": "",
+    "description": "日本RPG大厂。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "日本",
+      "RPG",
+      "最终幻想"
+    ],
+    "region": [
+      "日本"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "SE",
+      "最终幻想",
+      "勇者斗恶龙"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "koei_tecmo",
+    "name": "Koei Tecmo",
+    "name_cn": "光荣特库摩",
+    "url": "https://www.koeitecmogames.com",
+    "logo": "",
+    "description": "日本游戏厂商，擅长历史策略游戏。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "日本",
+      "游戏厂商",
+      "策略"
+    ],
+    "region": [
+      "日本"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "光荣",
+      "三国志"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "Atlus",
+    "name": "Atlus",
+    "name_cn": "Atlus",
+    "url": "https://atlus.com",
+    "logo": "",
+    "description": "日本RPG游戏厂商，知名《女神异闻录》系列。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "日本",
+      "RPG",
+      "女神异闻录"
+    ],
+    "region": [
+      "日本"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "女神异闻录",
+      "RPG"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "sucker_punch",
+    "name": "Sucker Punch",
+    "name_cn": "Sucker Punch",
+    "url": "https://www.suckerpunch.com",
+    "logo": "",
+    "description": "美国游戏工作室，索尼旗下。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "独立游戏",
+      "美国",
+      "索尼"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "声名狼藉",
+      "狡狐"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "insomniac",
+    "name": "Insomniac Games",
+    "name_cn": "Insomniac Games",
+    "url": "https://insomniac.games",
+    "logo": "",
+    "description": "美国游戏工作室，发行《蜘蛛侠》《瑞奇与叮当》等。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "美国",
+      "游戏工作室",
+      "索尼"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "蜘蛛侠",
+      "瑞奇与叮当"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "naughty_dog",
+    "name": "Naughty Dog",
+    "name_cn": "Naughty Dog",
+    "url": "https://www.naughtydog.com",
+    "logo": "",
+    "description": "美国游戏工作室，索尼旗下，发行《最后生还者》《神秘海域》等。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "美国",
+      "游戏工作室",
+      "索尼"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "最后生还者",
+      "神秘海域"
+    ],
+    "rating": 9.5,
+    "status": "active"
+  },
+  {
+    "id": "rockstar",
+    "name": "Rockstar Games",
+    "name_cn": "Rockstar Games",
+    "url": "https://www.rockstargames.com",
+    "logo": "",
+    "description": "美国游戏厂商，发行《GTA》《荒野大镖客》等。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "美国",
+      "游戏厂商",
+      "3A"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "GTA",
+      "荒野大镖客",
+      "R星"
+    ],
+    "rating": 9.5,
+    "status": "active"
+  },
+  {
+    "id": "cd_projekt",
+    "name": "CD Projekt",
+    "name_cn": "CD Projekt",
+    "url": "https://cdprojekt.com",
+    "logo": "",
+    "description": "波兰游戏厂商，发行《巫师》《赛博朋克2077》等。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "波兰",
+      "游戏厂商",
+      "RPG"
+    ],
+    "region": [
+      "欧洲"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "巫师",
+      "赛博朋克2077",
+      "CDPR"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "ubisoft_official",
+    "name": "Ubisoft",
+    "name_cn": "育碧",
+    "url": "https://www.ubisoft.com",
+    "logo": "",
+    "description": "法国游戏厂商，发行《刺客信条》《彩虹六号》等。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "法国",
+      "游戏厂商",
+      "3A"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "刺客信条",
+      "彩虹六号",
+      "育碧"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "electronic_arts",
+    "name": "Electronic Arts",
+    "name_cn": "EA",
+    "url": "https://www.ea.com",
+    "logo": "",
+    "description": "美国游戏厂商，发行FIFA、战地等功能游戏。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "美国",
+      "游戏厂商",
+      "EA"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "FIFA",
+      "战地",
+      "EA"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "activision",
+    "name": "Activision",
+    "name_cn": "动视",
+    "url": "https://www.activision.com",
+    "logo": "",
+    "description": "美国游戏厂商，发行《使命召唤》《魔兽世界》等。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "美国",
+      "游戏厂商",
+      "3A"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "使命召唤",
+      "魔兽世界",
+      "动视"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "take_two",
+    "name": "Take-Two Interactive",
+    "name_cn": "Take-Two",
+    "url": "https://www.take2games.com",
+    "logo": "",
+    "description": "美国游戏发行商，发行《侠盗猎车手》《NBA 2K》等。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "美国",
+      "游戏发行",
+      "3A"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "GTA",
+      "NBA2K",
+      "R星"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "nintendo_official",
+    "name": "Nintendo",
+    "name_cn": "任天堂",
+    "url": "https://www.nintendo.com",
+    "logo": "",
+    "description": "日本游戏厂商，游戏主机和游戏发行。",
+    "category": [
+      "主机"
+    ],
+    "tags": [
+      "日本",
+      "游戏厂商",
+      "主机"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "任天堂",
+      "Switch",
+      "马里奥"
+    ],
+    "rating": 9.5,
+    "status": "active"
+  },
+  {
+    "id": "sony_interactive",
+    "name": "Sony Interactive Entertainment",
+    "name_cn": "索尼互娱",
+    "url": "https://www.playstation.com",
+    "logo": "",
+    "description": "索尼游戏部门，发行PlayStation平台游戏。",
+    "category": [
+      "主机"
+    ],
+    "tags": [
+      "日本",
+      "索尼",
+      "PlayStation"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "PlayStation",
+      "索尼",
+      "PS5"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "microsoft_xbox",
+    "name": "Microsoft Xbox",
+    "name_cn": "微软Xbox",
+    "url": "https://www.xbox.com",
+    "logo": "",
+    "description": "微软游戏部门，发行Xbox平台游戏和Game Pass。",
+    "category": [
+      "主机"
+    ],
+    "tags": [
+      "美国",
+      "微软",
+      "Xbox"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "Xbox",
+      "Game Pass",
+      "微软"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "valve_official",
+    "name": "Valve",
+    "name_cn": "Valve",
+    "url": "https://www.valvesoftware.com",
+    "logo": "",
+    "description": "美国游戏厂商，发行Steam、Half-Life等。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "美国",
+      "游戏厂商",
+      "Steam"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "Steam",
+      "Half-Life",
+      "V社"
+    ],
+    "rating": 9.5,
+    "status": "active"
+  },
+  {
+    "id": "epic_official",
+    "name": "Epic Games",
+    "name_cn": "Epic Games",
+    "url": "https://www.epicgames.com",
+    "logo": "",
+    "description": "美国游戏厂商，发行Unreal引擎和Epic游戏商城。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "美国",
+      "游戏厂商",
+      "Unreal"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "Unreal",
+      "Epic商城",
+      "堡垒之夜"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "blizzard_official",
+    "name": "Blizzard Entertainment",
+    "name_cn": "暴雪娱乐",
+    "url": "https://www.blizzard.com",
+    "logo": "",
+    "description": "美国游戏厂商，发行《魔兽世界》《守望先锋》等。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "美国",
+      "游戏厂商",
+      "暴雪"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "魔兽世界",
+      "守望先锋",
+      "暗黑破坏神"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "nvidia_official",
+    "name": "NVIDIA Games",
+    "name_cn": "NVIDIA游戏",
+    "url": "https://www.nvidia.com/en-us/geforce-now/",
+    "logo": "",
+    "description": "NVIDIA GeForce NOW云游戏服务。",
+    "category": [
+      "云游戏"
+    ],
+    "tags": [
+      "NVIDIA",
+      "云游戏",
+      "RTX"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "云游戏",
+    "highlights": [
+      "RTX画质",
+      "云游戏"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "siliconera",
+    "name": "Siliconera",
+    "name_cn": "Siliconera",
+    "url": "https://www.siliconera.com",
+    "logo": "",
+    "description": "日本游戏新闻网站，以快速报道著称。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "日本游戏",
+      "新闻",
+      "快速"
+    ],
+    "region": [
+      "日本"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "日本游戏新闻"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "gematsu",
+    "name": "Gematsu",
+    "name_cn": "Gematsu",
+    "url": "https://www.gematsu.com",
+    "logo": "",
+    "description": "日本游戏媒体，专注RPG和日系游戏。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "日本游戏",
+      "RPG",
+      "媒体"
+    ],
+    "region": [
+      "日本"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "日系游戏"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "gamingtrend_media",
+    "name": "Gaming Trend",
+    "name_cn": "Gaming Trend",
+    "url": "https://gamingtrend.com",
+    "logo": "",
+    "description": "游戏媒体，提供评测和新闻。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "游戏媒体",
+      "评测"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "游戏评测"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "onlysp",
+    "name": "OnlySP",
+    "name_cn": "OnlySP",
+    "url": "https://onlysp.com",
+    "logo": "",
+    "description": "单机游戏媒体。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "单机游戏",
+      "媒体"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "单机游戏"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "rpgamer",
+    "name": "RPGamer",
+    "name_cn": "RPGamer",
+    "url": "https://rpgamer.com",
+    "logo": "",
+    "description": "RPG游戏新闻网站。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "RPG",
+      "新闻"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "RPG新闻"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "rpgwatch_media",
+    "name": "RPGWatch",
+    "name_cn": "RPGWatch",
+    "url": "https://www.rpgwatch.com",
+    "logo": "",
+    "description": "RPG游戏新闻和预览网站。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "RPG",
+      "新闻",
+      "预览"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "RPG新闻"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "gog_curated",
+    "name": "GOG.com 精选",
+    "name_cn": "GOG精选",
+    "url": "https://www.gog.com/curatedlists",
+    "logo": "",
+    "description": "GOG精选游戏列表。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "GOG",
+      "精选",
+      "推荐"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏推荐",
+    "highlights": [
+      "精选推荐"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "jackbox",
+    "name": "Jackbox Games",
+    "name_cn": "Jackbox派对游戏",
+    "url": "https://www.jackboxgames.com",
+    "logo": "",
+    "description": "美国派对游戏厂商，多人休闲游戏。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "派对游戏",
+      "休闲",
+      "多人"
+    ],
+    "region": [
+      "北美"
+    ],
+    "game_count": "派对游戏",
+    "highlights": [
+      "多人派对",
+      "休闲游戏"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "skyjo",
+    "name": "Skyjo",
+    "name_cn": "Skyjo",
+    "url": "https://www.spiel-des-jahres.com/de/spieljes/jackbox-games",
+    "logo": "",
+    "description": "德国派对游戏。",
+    "category": [
+      "客户端"
+    ],
+    "tags": [
+      "派对游戏",
+      "德国"
+    ],
+    "region": [
+      "欧洲"
+    ],
+    "game_count": "派对游戏",
+    "highlights": [
+      "德国游戏"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "小米游戏中心",
+    "name": "小米游戏",
+    "name_cn": "小米游戏中心",
+    "url": "https://game.xiaomi.com",
+    "logo": "",
+    "description": "小米官方游戏分发平台。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "小米",
+      "手游",
+      "分发"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏分发",
+    "highlights": [
+      "小米生态"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "百度手机助手",
+    "name": "百度手机助手",
+    "name_cn": "百度手机助手",
+    "url": "https://shouji.baidu.com",
+    "logo": "",
+    "description": "百度旗下安卓应用商店，手游分发渠道。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "百度",
+      "应用商店",
+      "手游"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "应用商店",
+    "highlights": [
+      "百度渠道"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "360手机助手",
+    "name": "360手机助手",
+    "name_cn": "360手机助手",
+    "url": "https://zhushou.360.cn",
+    "logo": "",
+    "description": "360旗下手机应用商店，手游分发渠道。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "360",
+      "应用商店",
+      "手游"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "应用商店",
+    "highlights": [
+      "360渠道"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "搜狗手机助手",
+    "name": "搜狗手机助手",
+    "name_cn": "搜狗手机助手",
+    "url": "https://zhushou.sogou.com",
+    "logo": "",
+    "description": "搜狗旗下手机应用商店。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "搜狗",
+      "应用商店"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "应用商店",
+    "highlights": [
+      "搜狗渠道"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "PP助手",
+    "name": "PP助手",
+    "name_cn": "PP助手",
+    "url": "https://pp.app",
+    "logo": "",
+    "description": "91助手升级版，iOS和安卓应用下载。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "iOS",
+      "安卓",
+      "应用商店"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "应用商店",
+    "highlights": [
+      "iOS越狱",
+      "应用下载"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "豌豆荚",
+    "name": "豌豆荚",
+    "name_cn": "豌豆荚",
+    "url": "https://www.wandoujia.com",
+    "logo": "",
+    "description": "老牌安卓应用商店，后被字节跳动收购。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "安卓",
+      "应用商店"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "应用商店",
+    "highlights": [
+      "应用管理"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "应用宝",
+    "name": "应用宝",
+    "name_cn": "腾讯应用宝",
+    "url": "https://sj.qq.com",
+    "logo": "",
+    "description": "腾讯官方手机应用商店，游戏分发量国内领先。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "腾讯",
+      "应用商店",
+      "手游"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "应用商店",
+    "highlights": [
+      "微信小游戏",
+      "腾讯系"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "安卓市场",
+    "name": "安卓市场",
+    "name_cn": "安卓市场",
+    "url": "https://www.apk.com",
+    "logo": "",
+    "description": "安卓应用市场。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "安卓",
+      "应用市场"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "应用商店",
+    "highlights": [
+      "安卓市场"
+    ],
+    "rating": 6.0,
+    "status": "active"
+  },
+  {
+    "id": "木蚂蚁",
+    "name": "木蚂蚁",
+    "name_cn": "木蚂蚁安卓市场",
+    "url": "https://www.mumayi.com",
+    "logo": "",
+    "description": "安卓应用市场。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "安卓",
+      "应用市场"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "应用商店",
+    "highlights": [
+      "安卓应用"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "安粉丝",
+    "name": "安粉丝",
+    "name_cn": "安粉丝手游网",
+    "url": "https://www.anfans.com",
+    "logo": "",
+    "description": "安卓游戏下载平台。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "安卓",
+      "游戏下载"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏下载",
+    "highlights": [
+      "安卓游戏"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "搞趣网",
+    "name": "搞趣网",
+    "name_cn": "搞趣网",
+    "url": "https://www.gao7.com",
+    "logo": "",
+    "description": "手机游戏下载平台。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "手游",
+      "下载"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏下载",
+    "highlights": [
+      "手游下载"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "飞流下载",
+    "name": "飞流下载",
+    "name_cn": "飞流下载",
+    "url": "https://www.feeliu.com",
+    "logo": "",
+    "description": "手机游戏下载平台。",
+    "category": [
+      "手游"
+    ],
+    "tags": [
+      "手游",
+      "下载"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏下载",
+    "highlights": [
+      "手游下载"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "18183手游网",
+    "name": "18183手游网",
+    "name_cn": "18183手游",
+    "url": "https://www.18183.com",
+    "logo": "",
+    "description": "国内手游媒体，提供新闻、攻略、下载。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "手游",
+      "媒体",
+      "攻略"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "手游媒体"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "口袋巴士",
+    "name": "口袋巴士",
+    "name_cn": "口袋巴士",
+    "url": "https://www.tgbus.com",
+    "logo": "",
+    "description": "老牌游戏媒体，专注手游和主机游戏。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "游戏媒体",
+      "手游",
+      "攻略"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "游戏媒体"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "叶子猪手游网",
+    "name": "叶子猪手游网",
+    "name_cn": "叶子猪手游",
+    "url": "https://www.yzz.cn",
+    "logo": "",
+    "description": "手游媒体和攻略网站。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "手游",
+      "攻略",
+      "热门"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "手游攻略"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "琵琶网",
+    "name": "琵琶网",
+    "name_cn": "琵琶网",
+    "url": "https://www.pipaw.com",
+    "logo": "",
+    "description": "游戏攻略和资讯网站。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "游戏攻略",
+      "资讯"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "游戏资讯"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "07073游戏网",
+    "name": "07073游戏网",
+    "name_cn": "07073游戏",
+    "url": "https://www.07073.com",
+    "logo": "",
+    "description": "老牌游戏媒体，提供游戏资讯和攻略。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "游戏媒体",
+      "资讯"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "老牌媒体"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "上游资讯",
+    "name": "上游资讯",
+    "name_cn": "上游网",
+    "url": "https://www.手游.com",
+    "logo": "",
+    "description": "游戏资讯网站。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "游戏资讯"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "游戏新闻"
+    ],
+    "rating": 6.0,
+    "status": "active"
+  },
+  {
+    "id": "游戏狗",
+    "name": "游戏狗",
+    "name_cn": "游戏狗",
+    "url": "https://www.yxdog.com",
+    "logo": "",
+    "description": "手机游戏攻略网站。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "手游",
+      "攻略"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "手游攻略"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "265G",
+    "name": "265G游戏网",
+    "name_cn": "265G游戏",
+    "url": "https://www.265g.com",
+    "logo": "",
+    "description": "游戏媒体和网址导航。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "游戏媒体",
+      "导航"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "游戏导航"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "97973",
+    "name": "97973游戏网",
+    "name_cn": "97973游戏",
+    "url": "https://www.97973.com",
+    "logo": "",
+    "description": "游戏媒体。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "游戏媒体"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "游戏新闻"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "快手小游戏",
+    "name": "快手小游戏",
+    "name_cn": "快手小游戏",
+    "url": "https://game.kuaishou.com",
+    "logo": "",
+    "description": "快手旗下小游戏平台。",
+    "category": [
+      "小游戏"
+    ],
+    "tags": [
+      "小游戏",
+      "快手"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "小游戏",
+    "highlights": [
+      "短视频游戏"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "抖音小游戏",
+    "name": "抖音小游戏",
+    "name_cn": "抖音小游戏",
+    "url": "https://game.douyin.com",
+    "logo": "",
+    "description": "字节跳动抖音旗下小游戏平台。",
+    "category": [
+      "小游戏"
+    ],
+    "tags": [
+      "小游戏",
+      "抖音"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "小游戏",
+    "highlights": [
+      "字节小游戏"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "腾讯游戏",
+    "name": "腾讯游戏",
+    "name_cn": "腾讯游戏",
+    "url": "https://game.qq.com",
+    "logo": "",
+    "description": "腾讯游戏官方平台。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "腾讯",
+      "游戏发行"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "腾讯游戏"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "网易游戏",
+    "name": "网易游戏",
+    "name_cn": "网易游戏",
+    "url": "https://game.163.com",
+    "logo": "",
+    "description": "网易游戏官方平台。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "网易",
+      "游戏发行"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "网易游戏"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "游族网络",
+    "name": "游族网络",
+    "name_cn": "游族网络",
+    "url": "https://www.youzu.com",
+    "logo": "",
+    "description": "手游和页游研发发行商。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "手游",
+      "页游",
+      "研发"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "游族"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "英雄互娱",
+    "name": "英雄互娱",
+    "name_cn": "英雄互娱",
+    "url": "https://www.yingxiong.com",
+    "logo": "",
+    "description": "游戏研运发行商。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "游戏研发",
+      "发行"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "游戏发行"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "bilibili游戏",
+    "name": "Bilibili游戏",
+    "name_cn": "B站游戏",
+    "url": "https://game.bilibili.com",
+    "logo": "",
+    "description": "B站游戏发行和联运平台。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "B站",
+      "游戏发行"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏发行",
+    "highlights": [
+      "B站游戏"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "抖音游戏发行",
+    "name": "抖音游戏",
+    "name_cn": "字节游戏",
+    "url": "https://game.bytedance.com",
+    "logo": "",
+    "description": "字节跳动游戏发行平台。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "字节",
+      "游戏发行"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏发行",
+    "highlights": [
+      "字节游戏"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "快手游戏发行",
+    "name": "快手游戏",
+    "name_cn": "快手游戏发行",
+    "url": "https://game.kuaishou.com",
+    "logo": "",
+    "description": "快手游戏发行平台。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "快手",
+      "游戏发行"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏发行",
+    "highlights": [
+      "快手游戏"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "灵犀互娱",
+    "name": "灵犀互娱",
+    "name_cn": "灵犀互娱",
+    "url": "https://www.lingxigames.com",
+    "logo": "",
+    "description": "阿里旗下游戏研运商。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "阿里",
+      "游戏研发"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "阿里游戏"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "多益网络",
+    "name": "多益网络",
+    "name_cn": "多益网络",
+    "url": "https://www.duoyi.com",
+    "logo": "",
+    "description": "游戏研发运营商，《梦想世界》系列。",
+    "category": [
+      "游戏发行"
+    ],
+    "tags": [
+      "游戏研发",
+      "运营"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏厂商",
+    "highlights": [
+      "梦想世界"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "9377",
+    "name": "9377",
+    "name_cn": "9377游戏平台",
+    "url": "https://www.9377.com",
+    "logo": "",
+    "description": "游戏平台。",
+    "category": [
+      "页游"
+    ],
+    "tags": [
+      "游戏平台"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏平台",
+    "highlights": [
+      "游戏平台"
+    ],
+    "rating": 6.0,
+    "status": "active"
+  },
+  {
+    "id": "789游戏",
+    "name": "789游戏平台",
+    "name_cn": "789游戏",
+    "url": "https://www.789game.com",
+    "logo": "",
+    "description": "游戏平台。",
+    "category": [
+      "页游"
+    ],
+    "tags": [
+      "游戏平台"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏平台",
+    "highlights": [
+      "游戏平台"
+    ],
+    "rating": 5.5,
+    "status": "active"
+  },
+  {
+    "id": "5173游戏交易",
+    "name": "5173",
+    "name_cn": "5173游戏交易",
+    "url": "https://www.5173.com",
+    "logo": "",
+    "description": "国内最大游戏道具/账号交易平台之一。",
+    "category": [
+      "交易"
+    ],
+    "tags": [
+      "游戏交易",
+      "账号",
+      "道具"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏交易",
+    "highlights": [
+      "游戏交易",
+      "安全"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "DD373",
+    "name": "DD373",
+    "name_cn": "DD373游戏交易",
+    "url": "https://www.dd373.com",
+    "logo": "",
+    "description": "游戏道具和账号交易平台。",
+    "category": [
+      "交易"
+    ],
+    "tags": [
+      "游戏交易",
+      "道具",
+      "账号"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏交易",
+    "highlights": [
+      "游戏交易"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "7881游戏交易",
+    "name": "7881",
+    "name_cn": "7881交易平台",
+    "url": "https://www.7881.com",
+    "logo": "",
+    "description": "游戏交易平台。",
+    "category": [
+      "交易"
+    ],
+    "tags": [
+      "游戏交易",
+      "账号"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏交易",
+    "highlights": [
+      "游戏交易"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "C5Game",
+    "name": "C5Game",
+    "name_cn": "C5Game",
+    "url": "https://www.c5game.com",
+    "logo": "",
+    "description": "Steam游戏道具交易平台。",
+    "category": [
+      "交易"
+    ],
+    "tags": [
+      "Steam道具",
+      "交易"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "游戏交易",
+    "highlights": [
+      "Steam交易"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "IGXE",
+    "name": "IGXE",
+    "name_cn": "IGXE电竞饰品交易",
+    "url": "https://www.igxe.cn",
+    "logo": "",
+    "description": "国内专业电竞饰品交易平台，CSGO/Dota2。",
+    "category": [
+      "交易"
+    ],
+    "tags": [
+      "电竞饰品",
+      "CSGO",
+      "Dota2"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏交易",
+    "highlights": [
+      "饰品交易"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "游民商城",
+    "name": "游民商城",
+    "name_cn": "游民星空商城",
+    "url": "https://shop.gamersky.com",
+    "logo": "",
+    "description": "游民星空旗下游戏交易平台。",
+    "category": [
+      "交易"
+    ],
+    "tags": [
+      "游戏交易",
+      "商城"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏交易",
+    "highlights": [
+      "游戏商城"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "NX加速器",
+    "name": "NX加速器",
+    "name_cn": "NX游戏加速器",
+    "url": "https://www.nxfallback.com",
+    "logo": "",
+    "description": "NX自研游戏加速器。",
+    "category": [
+      "加速器"
+    ],
+    "tags": [
+      "游戏加速",
+      "自研"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "加速服务",
+    "highlights": [
+      "游戏加速"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "UU加速器",
+    "name": "UU加速器",
+    "name_cn": "UU游戏加速器",
+    "url": "https://uu.163.com",
+    "logo": "",
+    "description": "网易出品游戏加速器。",
+    "category": [
+      "加速器"
+    ],
+    "tags": [
+      "网易",
+      "游戏加速"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "加速服务",
+    "highlights": [
+      "游戏加速"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "逍遥模拟器",
+    "name": "逍遥模拟器",
+    "name_cn": "逍遥安卓模拟器",
+    "url": "https://www.xyaz.cn",
+    "logo": "",
+    "description": "国产安卓模拟器，支持电脑玩手游。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "安卓模拟",
+      "国产",
+      "手游"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "安卓模拟",
+      "国产"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "蓝叠模拟器",
+    "name": "BlueStacks",
+    "name_cn": "蓝叠模拟器",
+    "url": "https://www.bluestacks.cn",
+    "logo": "",
+    "description": "全球知名安卓模拟器，PC玩手游。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "安卓模拟",
+      "手游"
+    ],
+    "region": [
+      "全球"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "安卓模拟",
+      "全球"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "夜神模拟器",
+    "name": "夜神模拟器",
+    "name_cn": "夜神模拟器",
+    "url": "https://www.yeshen.com",
+    "logo": "",
+    "description": "安卓模拟器，支持多开。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "安卓模拟",
+      "多开"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "安卓模拟"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "雷电模拟器",
+    "name": "雷电模拟器",
+    "name_cn": "雷电模拟器",
+    "url": "https://www.ldplayer.net",
+    "logo": "",
+    "description": "主流安卓模拟器之一。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "安卓模拟",
+      "游戏优化"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "雷电"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "腾讯手游助手",
+    "name": "腾讯手游助手",
+    "name_cn": "腾讯手游助手",
+    "url": "https://掌上wegame.com",
+    "logo": "",
+    "description": "腾讯官方安卓模拟器。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "腾讯",
+      "安卓模拟"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "腾讯模拟器"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "网易MUMU",
+    "name": "网易MuMu",
+    "name_cn": "网易MuMU模拟器",
+    "url": "https://mumu.163.com",
+    "logo": "",
+    "description": "网易官方安卓模拟器。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "网易",
+      "安卓模拟"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "网易MuMu"
+    ],
+    "rating": 8.5,
+    "status": "active"
+  },
+  {
+    "id": "猩猩助手",
+    "name": "猩猩助手",
+    "name_cn": "猩猩助手",
+    "url": "https://www.xingxs.com",
+    "logo": "",
+    "description": "安卓模拟器。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "安卓模拟"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "安卓模拟"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "靠谱助手",
+    "name": "靠谱助手",
+    "name_cn": "靠谱助手",
+    "url": "https://www.kaopu.com",
+    "logo": "",
+    "description": "安卓模拟器平台。",
+    "category": [
+      "工具"
+    ],
+    "tags": [
+      "安卓模拟"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "模拟器",
+    "highlights": [
+      "安卓模拟"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "NGA玩家社区",
+    "name": "NGA",
+    "name_cn": "NGA玩家社区",
+    "url": "https://bbs.nga.cn",
+    "logo": "",
+    "description": "国内最大游戏论坛之一，暴雪系著称。",
+    "category": [
+      "社区"
+    ],
+    "tags": [
+      "游戏论坛",
+      "暴雪",
+      "硬核"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏社区",
+    "highlights": [
+      "NGA",
+      "游戏论坛"
+    ],
+    "rating": 9.0,
+    "status": "active"
+  },
+  {
+    "id": "A9VG电玩部落",
+    "name": "A9VG",
+    "name_cn": "A9VG电玩部落",
+    "url": "https://www.a9vg.com",
+    "logo": "",
+    "description": "老牌游戏论坛，专注主机和PC游戏。",
+    "category": [
+      "社区"
+    ],
+    "tags": [
+      "游戏论坛",
+      "主机",
+      "攻略"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏社区",
+    "highlights": [
+      "A9VG"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "旅法师营地",
+    "name": "旅法师营地",
+    "name_cn": "旅法师营地",
+    "url": "https://www.iyingdi.com",
+    "logo": "",
+    "description": "卡牌游戏攻略社区。",
+    "category": [
+      "社区"
+    ],
+    "tags": [
+      "卡牌",
+      "攻略",
+      "社区"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏社区",
+    "highlights": [
+      "卡牌社区"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "旅法师",
+    "name": "旅法师",
+    "name_cn": "旅法师",
+    "url": "https://www.iyingdi.com",
+    "logo": "",
+    "description": "卡牌游戏攻略网站。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "卡牌游戏",
+      "攻略"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "卡牌攻略"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "Switch中文站",
+    "name": "Switch中文站",
+    "name_cn": "Switch中文站",
+    "url": "https://www.switch.cc",
+    "logo": "",
+    "description": "Switch游戏中文资讯站。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "Switch",
+      "游戏资讯"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "Switch新闻"
+    ],
+    "rating": 7.5,
+    "status": "active"
+  },
+  {
+    "id": "游戏基地",
+    "name": "游戏基地",
+    "name_cn": "游戏基地",
+    "url": "https://www.gamebase.com.tw",
+    "logo": "",
+    "description": "台湾游戏社区平台。",
+    "category": [
+      "社区"
+    ],
+    "tags": [
+      "台湾",
+      "游戏社区"
+    ],
+    "region": [
+      "港澳台"
+    ],
+    "game_count": "游戏社区",
+    "highlights": [
+      "台湾社区"
+    ],
+    "rating": 8.0,
+    "status": "active"
+  },
+  {
+    "id": "udn游戏",
+    "name": "udn游戏",
+    "name_cn": "联合报游戏",
+    "url": "https://game.udn.com",
+    "logo": "",
+    "description": "台湾联合报游戏频道。",
+    "category": [
+      "媒体"
+    ],
+    "tags": [
+      "台湾",
+      "游戏媒体"
+    ],
+    "region": [
+      "港澳台"
+    ],
+    "game_count": "媒体",
+    "highlights": [
+      "台湾游戏"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "达龙云",
+    "name": "达龙云",
+    "name_cn": "达龙云游戏",
+    "url": "https://www.darongyun.com",
+    "logo": "",
+    "description": "国内云游戏平台。",
+    "category": [
+      "云游戏"
+    ],
+    "tags": [
+      "云游戏",
+      "国内"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "云游戏",
+    "highlights": [
+      "云游戏平台"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "沃游戏",
+    "name": "沃游戏",
+    "name_cn": "沃游戏云平台",
+    "url": "https://www.wo.com",
+    "logo": "",
+    "description": "联通云游戏平台。",
+    "category": [
+      "云游戏"
+    ],
+    "tags": [
+      "云游戏",
+      "运营商"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "云游戏",
+    "highlights": [
+      "联通云游戏"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "咪咕游戏",
+    "name": "咪咕游戏",
+    "name_cn": "咪咕游戏",
+    "url": "https://game.migum.com.cn",
+    "logo": "",
+    "description": "中国移动旗下游戏平台。",
+    "category": [
+      "云游戏"
+    ],
+    "tags": [
+      "移动",
+      "游戏平台"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "游戏平台",
+    "highlights": [
+      "移动游戏"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "天翼云游戏",
+    "name": "天翼云游戏",
+    "name_cn": "天翼云游戏",
+    "url": "https://cloudgame.189.cn",
+    "logo": "",
+    "description": "中国电信云游戏平台。",
+    "category": [
+      "云游戏"
+    ],
+    "tags": [
+      "电信",
+      "云游戏"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "云游戏",
+    "highlights": [
+      "电信云"
+    ],
+    "rating": 7.0,
+    "status": "active"
+  },
+  {
+    "id": "小鱼游戏",
+    "name": "小鱼游戏",
+    "name_cn": "小鱼游戏云平台",
+    "url": "https://www.xiaoyugame.com",
+    "logo": "",
+    "description": "云游戏平台。",
+    "category": [
+      "云游戏"
+    ],
+    "tags": [
+      "云游戏"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "云游戏",
+    "highlights": [
+      "云游戏"
+    ],
+    "rating": 6.5,
+    "status": "active"
+  },
+  {
+    "id": "菜鸡游戏",
+    "name": "菜鸡游戏",
+    "name_cn": "菜鸡游戏",
+    "url": "https://www.caiji.com",
+    "logo": "",
+    "description": "小游戏云游戏平台。",
+    "category": [
+      "小游戏"
+    ],
+    "tags": [
+      "小游戏",
+      "云游戏"
+    ],
+    "region": [
+      "中国大陆"
+    ],
+    "game_count": "小游戏",
+    "highlights": [
+      "云小游戏"
     ],
     "rating": 6.5,
     "status": "active"
